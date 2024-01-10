@@ -4,336 +4,336 @@
 		<display-name lang="en">TV1</display-name>
 		<icon src="https://rtm-images.glueapi.io/320x0//live_channel/tv1_Trans.png"/>
 	</channel>
-	<programme start="20240110000000 " stop="20240110003000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109160000 +0000" stop="20240109163000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Tengah Malam</title>
 		<desc lang="en">Memaparkan perkembangan berita dalam dan luar negara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110003000 " stop="20240110010000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109163000 +0000" stop="20240109170000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Khazanah Borneo</title>
 		<desc lang="en">Saksikan paparan menarik tentang sejarah dan arkeologi di Tapak Arkeologi Tingkayu, Kunak bersama Munawar Azmi.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110010000 " stop="20240110013000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109170000 +0000" stop="20240109173000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Kronologi Si Penjual Roti</title>
 		<desc lang="en">Budi sudah memutuskan hubungannya dengan Ani, namun ada bala yang bakal menimpa Budi.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110013000 " stop="20240110014500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109173000 +0000" stop="20240109174500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Daripada Idea Kepada Inovasi</title>
 		<desc lang="en">Inovasi AIRBOX SENSE iaitu teknologi hijau yang dapat memantau kualiti udara menggunakan peralatan yang saintifik, kecil dan murah bersama dr. Mohd Shahrul Mohd Nadzir jabatan Sains Bumi &amp; Alam Sekitar, Universiti Kebangsaan Malaysia.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110014500 " stop="20240110020000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109174500 +0000" stop="20240109180000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Promo / PSA / Kapsul</title>
 		<desc lang="en">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110020000 " stop="20240110023000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109180000 +0000" stop="20240109183000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Bajet Bijak Belanja</title>
 		<desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik mengenai Penjanaan Pendapatan Tambahan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110023000 " stop="20240110030000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109183000 +0000" stop="20240109190000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Di Sana Ada Misterinya</title>
 		<desc lang="en">Pengacara, Zamarul Hisham ke Kampung Medan, Batu Pahat, Johor bagi merungkai misteri emas lombong Jepun dimana mengikut cerita masyarakat setempat, orang Jepun menanam patung emas di sana hinggakan ada penduduk kampung yang dipancung kerana mengetahui lokasinya.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110030000 " stop="20240110033000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109190000 +0000" stop="20240109193000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Sinei Kitak Tok</title>
 		<desc lang="en">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di Sarawak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110033000 " stop="20240110040000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109193000 +0000" stop="20240109200000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Digital Massa</title>
 		<desc lang="en">Pemasaran Perniagaan melalui E-Dagang bersama Nurul Afini Anwar Pakar Pemasaran E-dagang.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110040000 " stop="20240110043000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109200000 +0000" stop="20240109203000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Kerajaan Tua Nusantara</title>
 		<desc lang="en">Saksikan Dato’ Haji Amin Khan berkongsi tentang sejarah "Kerajaan Samudera Pasai" (Bahagian 1) di Indonesia.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110043000 " stop="20240110053000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109203000 +0000" stop="20240109213000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Cinta Adam Dan Hawa</title>
 		<desc lang="en">Amar diserang sawan ketika Tengku Rugayah dan Siti tiada dirumah. Syarikat milik Tengku Abu Zahar mengalami masalah kewangan. Tengku Abu Zahar memanggil anak-anaknya Tengku Ryan dan tengku Zeera untuk menjelaskan kedudukan kewangan syarikat mereka. Tengku Abu Zahar merasakan bondanya Tengku Rugayah sengaja menghalang projek chalet itu kerana mahu menyusahkan hidupnya.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110053000 " stop="20240110055800 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109213000 +0000" stop="20240109215800 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Bacaan Ar-Rahman</title>
 		<desc lang="en">Bacaan Ar-Rahman</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110055800 " stop="20240110060000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109215800 +0000" stop="20240109220000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Lagu Negaraku</title>
 		<desc lang="en">Nyanyian lagu Negaraku</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110060000 " stop="20240110070000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109220000 +0000" stop="20240109230000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Bismillah</title>
 		<desc lang="en">Mari bersama mendengar Tilawah &amp; Tadabbur Surah Ali Imran (Ayat 103-110) yang mengetengahkan konsep perpaduan di kalangan masyarakat untuk membina KESEJAHTERAAN sesuai dengan rukun dalam MADANI.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110070000 " stop="20240110071000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109230000 +0000" stop="20240109231000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Pagi Semenanjung</title>
 		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110071000 " stop="20240110072000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109231000 +0000" stop="20240109232000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Pagi Sabah</title>
 		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110072000 " stop="20240110073000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109232000 +0000" stop="20240109233000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Pagi Sarawak</title>
 		<desc lang="en">Memaparkan perkembangan berita di Sarawak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110073000 " stop="20240110074400 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109233000 +0000" stop="20240109234400 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Stadium RTM Pagi</title>
 		<desc lang="en">Memaparkan perkembangan terkini berita sukan dari dalam dan luar negara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110074400 " stop="20240110080000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240109234400 +0000" stop="20240110000000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Kanta 744</title>
 		<desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110080000 " stop="20240110100000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110000000 +0000" stop="20240110020000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">SIARAN LANGSUNG: Selamat Pagi Malaysia</title>
 		<desc lang="en">Memaparkan perkembangan isu-isu semasa, sains, teknologi, perundangan, kerohanian, inisiatif kerajaan, kemasyarakatan, aktiviti seni, desa dan aktiviti jabatan, kementerian, negeri-negeri serta pertubuhan bukan kerajaan (NGO).</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110100000 " stop="20240110100500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110020000 +0000" stop="20240110020500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Dunia 10</title>
 		<desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110100500 " stop="20240110103000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110020500 +0000" stop="20240110023000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Jarang Jumpa</title>
 		<desc lang="en">Kisah Norhayati yang menghidap Steven Johnson Syndrome. Steven Johnson Syndrome (SJS) adalah penyakit yang melibatkan sistem imun dan kebiasaannya melibatkan kulit dan mukosa. Tahap masalah boleh bermula dengan hanya beberapa tompok merah pada kulit atau semakin teruk dan menyebabkan kulit tertanggal  seperti melecur.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110103000 " stop="20240110110000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110023000 +0000" stop="20240110030000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Makan Dan Rawat</title>
 		<desc lang="en">Episod ini tentang penyakit buah pinggang bersama pakar yang akan memberi infomasi dan diet makanan yang sesuai. Juga, Profesor Dr. Muhammad Shahrim Abdul Karim (Pensyarah Fakulti Sains dan Teknologi Makanan, UPM) akan berkongsi menu ayam panggang dan pasta labu olio aglio.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110110000 " stop="20240110113000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110030000 +0000" stop="20240110033000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Warna-Warni Asia</title>
 		<desc lang="en">Sebuah rancangan travelog membawa penonton melihat tempat-tempat menarik dalam Asia yang berwarna-warni.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110113000 " stop="20240110120000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110033000 +0000" stop="20240110040000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Keringat Senja</title>
 		<desc lang="en">Episod kali ini bersama Munah Ibrahim, seorang pembuat terendak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110120000 " stop="20240110120500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110040000 +0000" stop="20240110040500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Semasa</title>
 		<desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110120500 " stop="20240110130000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110040500 +0000" stop="20240110050000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Cities By The Sea</title>
 		<desc lang="en">Saksikan kepelbagaian keunikan seni bina yang tersergam indah dengan pemancangan lautan yang luas dalam rancangan Cities By The Sea.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110130000 " stop="20240110133000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110050000 +0000" stop="20240110053000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Tengah Hari</title>
 		<desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan dan berita hiburan. (Azan Zohor : 13.23)</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110133000 " stop="20240110140000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110053000 +0000" stop="20240110060000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">TV1 KIDS: Exagon</title>
 		<desc lang="en">Rupa-rupanya, satu lagi Exagon yang hilang selama ini berada di makmal Murdoch Corp, digunakan oleh Dr. Murdoch untuk mengkaji teknologinya. Setelah mendapatkan reaktor tempoh hari, Murdoch menggunakannya untuk menghidupkan Exagon itu yang dipanggil 'Warden'.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110140000 " stop="20240110143000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110060000 +0000" stop="20240110063000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Jiranku Sayang</title>
 		<desc lang="en">Drama sitkom kehidupan penduduk di taman perumahan yang terdiri dari pelbagai kaum.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110143000 " stop="20240110150000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110063000 +0000" stop="20240110070000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Teratak Tradisi</title>
 		<desc lang="en">Dalam episod ini Pengacara Intan Norsaina membawa para penonton ke Rumah Bujang Berselasar (Serambi), Terengganu.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110150000 " stop="20240110150500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110070000 +0000" stop="20240110070500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Semasa</title>
 		<desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110150500 " stop="20240110160000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110070500 +0000" stop="20240110080000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Cuit Sikit, Jangan Sentap</title>
 		<desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian bersama pengacara Hafiz Dolson, Irfan Syahmi dan Syairul Islam.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110160000 " stop="20240110160500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110080000 +0000" stop="20240110080500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Semasa</title>
 		<desc lang="en">Memaparkan perkembangan berita semasa dan terkini.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110160500 " stop="20240110163000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110080500 +0000" stop="20240110083000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Sinei Kitak Tok</title>
 		<desc lang="en">Jom! Bersama Azam Pitt melihat keunikan Taman Negara Mulu di mana pelbagai aktiviti meneroka gua dapat dilakukan di Gua Lang, Gua Rusa, dan Gua Angin. Juga, menyaksikan fenomena penghijrahan kelawar, stalagtit dan stalagmit serta merasai pengalaman meniti jambatan gantung (canopy skywalk) yang terpanjang di dunia</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110163000 " stop="20240110164500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110083000 +0000" stop="20240110084500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">SIARAN LANGSUNG: Pastikan Sahih</title>
 		<desc lang="en">Saksikan rancangan bual bicara santai untuk berkongsi maklumat yang benar dan membetulkan berita-berita palsu yang viral di media sosial.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110164500 " stop="20240110170000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110084500 +0000" stop="20240110090000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">SIARAN LANGSUNG : Biz Malaysia</title>
 		<desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110170000 " stop="20240110180000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Wilayah</title>
 		<desc lang="en">Memaparkan perkembangan berita dari negeri-negeri di seluruh negara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110180000 " stop="20240110184500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110100000 +0000" stop="20240110104500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Fikrah</title>
 		<desc lang="en">Bukan tugas kita untuk menghisab dosa orang lain, tetapi apa yang harus kita lakukan sebenarnya adalah untuk melihat diri kita sendiri dengan penuh keinsafan dan mengenali diri kita sendiri sejauh manakah kita sudah melakukan ketaatan kepada Allah SWT? Ikuti kupasan Pendakwah Bukan Penghukum.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110184500 " stop="20240110194400 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110104500 +0000" stop="20240110114400 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">SELEKSI WIDURI: Cinta Adam Dan Hawa</title>
 		<desc lang="en">Kemunculan Summayah mengingatkan sesuatu kepada Adam tentang kesilapannya terhadap Summayah selama ini. Summayah sebenarnya adalah isteri kepada Adam yang telah lama ditinggalkan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110194400 " stop="20240110200000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110114400 +0000" stop="20240110120000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Kanta 744</title>
 		<desc lang="en">Berita ringkas dan padat merangkumi semua segmen termasuk nasional, semasa, ekonomi, dunia, sukan, hiburan dan lain-lain.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110200000 " stop="20240110203000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110120000 +0000" stop="20240110123000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Berita Perdana</title>
 		<desc lang="en">Memaparkan perkembangan berita dalam dan luar negara, berita sukan serta berita hiburan. (Azan Isyak : 20.35)</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110203000 " stop="20240110210000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110123000 +0000" stop="20240110130000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Malaysia Tonight</title>
 		<desc lang="en">Ikuti Malaysia Tonight, berita berbahasa Inggeris yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110210000 " stop="20240110220000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110130000 +0000" stop="20240110140000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">SIARAN LANGSUNG: Diari Rawat</title>
 		<desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110220000 " stop="20240110221500 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110140000 +0000" stop="20240110141500 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Dunia 10</title>
 		<desc lang="en">Memaparkan berita dan peristiwa yang berlaku di seluruh dunia.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110221500 " stop="20240110223000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110141500 +0000" stop="20240110143000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Promo / PSA / Kapsul</title>
 		<desc lang="en">Saksikan paparan promo semasa, PSA, kapsul kenegaraan, kerohanian dan nilai-nilai murni.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110223000 " stop="20240110230000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110143000 +0000" stop="20240110150000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Rona Sabah</title>
 		<desc lang="en">Penyelidikan dan inovasi Serunding Kubis secara berterusan yang dilakukan oleh Universiti Malaysia Sabah diketuai Profesor Madya Dr. Jurry Foo, bukan sahaja membawa kepada peningkatan kualiti secara berkekalan, malah meningkatkan keupayaan komuniti dengan mempelbagaikan pengeluaran produk dan meneroka pembuatan produk baharu.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110230000 " stop="20240110233000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110150000 +0000" stop="20240110153000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Jiranku Sayang</title>
 		<desc lang="en">Dalam episod ini kisah Marwan tiada semangat untuk memasak. Mak Wan telah membuat tempahan dengan Marwan dan makananya sangat sedap.
 Tina dan Anis akan mejualnya menggunakan kaedah perniagaan dalam talian.</desc>
@@ -341,7 +341,7 @@ Tina dan Anis akan mejualnya menggunakan kaedah perniagaan dalam talian.</desc>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110233000 " stop="20240111000000 " channel="1.rtmklik_rtm_gov_my">
+	<programme start="20240110153000 +0000" stop="20240110160000 +0000" channel="1.rtmklik_rtm_gov_my">
 		<title lang="en">Warisan Kita</title>
 		<desc lang="en">Episod kali ini mengenai seni budaya Jikey bersama tetamu jemputan Dr. Rosdeen Suboh (Pengkaji Jikey, Universiti Malaya), Rizal bin Ismail (Pengarah JKKN Kedah), Hamid bin Itam (Penggiat Jikey) dan Ed Kota (Ketua Kumpulan Jikey Seri Langkapuri)</desc>
 		<episode/>
