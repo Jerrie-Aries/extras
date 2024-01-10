@@ -1,425 +1,453 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="epg_grabber">
-	<channel id="2.mana2_my">
+	<channel id="2.rtmklik_rtm_gov_my">
 		<display-name lang="en">TV2</display-name>
-		<icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/phkbzb.png"/>
+		<icon src="https://rtm-images.glueapi.io/320x0//live_channel/tv2_Trans.png"/>
 	</channel>
-	<programme start="20240110000000 +0000" stop="20240110003000 +0000" channel="2.mana2_my">
-		<title lang="en">Fruiterama (S3)</title>
-		<desc lang="en">Siri animasi tentang buah-buahan tempatan yang memaarkan pengisian pengetahuan disamping aksi lucu mereka semua.</desc>
+	<programme start="20240109160000 +0000" stop="20240109163000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">OBB (Orang Baik-Baik)</title>
+		<desc lang="en">Majalah yang diterbitkan berdasarkan idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan warga yang layak diiktiraf sebagai Obb berlandaskan aktiviti kemasyarakatan atau kebajikan yang diusahakan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110003000 +0000" stop="20240110010000 +0000" channel="2.mana2_my">
-		<title lang="en">Ejen 123 (SR2)</title>
-		<desc lang="en">Kisah 3 ejen yang membantu membanteras penyakit yang menyerang manusia. Mereka memberi pendedahan tentang penyakit-penyakit berkenaan dari segi pengertian, punca, cara rawatan dan cara mengelakkan serangan setiap penyakit.</desc>
+	<programme start="20240109163000 +0000" stop="20240109173000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Cermin Kasih Amira</title>
+		<desc lang="en">Amira dibesarkan oleh ayahnya. Walau hidup dihimpit duka, mereka bertuah kerana dikelilingi insan-insan yang baik hati. Lakonan : Almy Nadia, Mahmud Alibasha, Roy Azman, Oshen, Faried Wari, Nor Albaniah, Maria Farida, Priya Kalpana dan Jamal Mohideen.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="2.mana2_my">
-		<title lang="en">Imamku Okey</title>
-		<desc lang="en">Akibat berkahwin atas desakan keluarga , hubungan Adam dan Aishah saling membenci meskipun telah berkahwin. Sehinggalah dengan kehadiran seorang anak angkat.</desc>
+	<programme start="20240109173000 +0000" stop="20240109180000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Kafe Safiah</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan :  Ifa Raziah, Pushpa Narayan, Mardiana Alwi, Mazlan Mohktar, Alex Yanz, Delimawati dan Along Kamaludin.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110020000 +0000" stop="20240110030000 +0000" channel="2.mana2_my">
-		<title lang="en">Jom Shoppe (Episod)</title>
-		<desc lang="en">Sebuah rancangan membeli-belah dalam talian khas untuk anda.</desc>
+	<programme start="20240109180000 +0000" stop="20240109183000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Moodupani</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110030000 +0000" stop="20240110040000 +0000" channel="2.mana2_my">
-		<title lang="en">True Beauty</title>
-		<desc lang="en">Drama bersiri korea lakonan Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young dan Park Yoo-Na.</desc>
+	<programme start="20240109183000 +0000" stop="20240109190000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Uyiril Kalantha Uravu</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110040000 +0000" stop="20240110042000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA MANDARIN</title>
-		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan</desc>
+	<programme start="20240109190000 +0000" stop="20240109200000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Impian Halaman Sekinchan</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110042000 +0000" stop="20240110043000 +0000" channel="2.mana2_my">
-		<title lang="en">Galeri Mandarin 2024</title>
-		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
+	<programme start="20240109200000 +0000" stop="20240109203000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Bale Balle Chakde</title>
+		<desc lang="en">Rancangan hiburan dan informasi dengan pelbagai segmen mengenai industri hiburan tempatan dan dunia perfileman Bollywood.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110043000 +0000" stop="20240110050000 +0000" channel="2.mana2_my">
-		<title lang="en">WORLD TODAY</title>
-		<desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
+	<programme start="20240109203000 +0000" stop="20240109210000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Hit Hop Trend</title>
+		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110050000 +0000" stop="20240110060000 +0000" channel="2.mana2_my">
-		<title lang="en">All Around Champion</title>
-		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara.</desc>
+	<programme start="20240109210000 +0000" stop="20240109220000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Kasih Tak Terungkap</title>
+		<desc lang="en">Lisa ternampak Ian dan Sofea minum di kafe berhampiran pejabat yang membuatkan dia berang dan cemburu. Lisa menuntut penjelasan Saiful yang turut menyaksikan kejadian tersebut. Lakonan : Saharul Ridzwan, Sharifah Husna, Halim Radzi, Riena Diana.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110060000 +0000" stop="20240110070000 +0000" channel="2.mana2_my">
-		<title lang="en">Waris (S2)</title>
-		<desc lang="en">Drama bersiri lakonan Zahiril Adzim, Nas T, Linda Hashim, Kavitha Sidhu, Liana Nordin dan Amelia Chen.</desc>
+	<programme start="20240109220000 +0000" stop="20240109220200 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Pembukaan - Negaraku</title>
+		<desc lang="en">Lagu Negaraku</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110070000 +0000" stop="20240110090000 +0000" channel="2.mana2_my">
-		<title lang="en">Kalyanam</title>
-		<desc lang="en">Nehru adalah seorang remaja bisu yang telah menyaksikan pembunuhan seorang wanita sehingga dia dikejar oleh pembunuh tersebut untuk menghapuskan satu-satunya saksi kejadian.</desc>
+	<programme start="20240109220200 +0000" stop="20240109230000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Lembayung Kasihmu</title>
+		<desc lang="en">Kisah seorang gadis yang terpaksa berkorban untuk membantu keluarganya yang miskin di kampung. Dia terpaksa bertungkus lumus untuk mencari sumber kewangan dan berhadapan dengan pelbagai kerenah dari orang-orang di sekelilingnya. Lakonan: Shah Jaszle, Khatijah Tan dan Fauziah Gous.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="2.mana2_my">
-		<title lang="en">Tua Separuh Muda</title>
-		<desc lang="en">Drama bersiri lakonan Shafie Tee, Firdaus Gufran, Thomson Goh, Jenicca Mae, Anita Baharom, Rosnah Johari, Aida Khalida dan Beego.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110100000 +0000" stop="20240110103000 +0000" channel="2.mana2_my">
-		<title lang="en">Nella The Princess Knight</title>
-		<desc lang="en">Rancangan animasi yang mengisahkan tentang Puteri Nella yang juga seorang pahlawan, berani menempuh segala halangan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110103000 +0000" stop="20240110110000 +0000" channel="2.mana2_my">
+	<programme start="20240109230000 +0000" stop="20240109233000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Nadim</title>
-		<desc lang="en">Kisah Nadim , kanak-kanak yang cintakan ilmu pengetahuan, berkongsi pengalamannya melawat tempat-tempat menarik dalam negara. Nadim juga menyelesaikan masalah yang dihadapinya dengan bijak.</desc>
+		<desc lang="en">Kisah Nadim, kanak-kanak yang cintakan ilmu pengetahuan, berkongsi pengalamannya melawat tempat-tempat menarik dalam negara. Nadim juga menyelesaikan masalah yang dihadapinya dengan bijak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110110000 +0000" stop="20240110113000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA MANDARIN</title>
-		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+	<programme start="20240109233000 +0000" stop="20240110000000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Arnab Dan Kura-Kura</title>
+		<desc lang="en">Memaparkan cereka dalam bentuk kartun animasi dan berunsur pendidikan khas bagi kanak-kanak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110113000 +0000" stop="20240110120000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA TAMIL</title>
-		<desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+	<programme start="20240110000000 +0000" stop="20240110003000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Fruiterama</title>
+		<desc lang="en">Jelajahi dunia ria buah-buahan tempatan dengan pelbagai kisah yang mencuit hati.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110120000 +0000" stop="20240110130000 +0000" channel="2.mana2_my">
-		<title lang="en">Witch At Court</title>
-		<desc lang="en">Drama bersiri Korea lakonan Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa dan Kim Kwon.</desc>
+	<programme start="20240110003000 +0000" stop="20240110010000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Ejen 123</title>
+		<desc lang="en">Kisah sekumpulan tiga ejen yang membantu membenteras penyakit yang menyerang manusia. Mereka turut berkongsi informasi tentang pelbagai penyakit dari segi pengertian, punca, cara rawatan dan cara mengelakan diri dari diserang penyakit tersebut.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110130000 +0000" stop="20240110133000 +0000" channel="2.mana2_my">
-		<title lang="en">Apartmen Putra 59200 (Musim 5)</title>
-		<desc lang="en">Sitkom komedi terbitan Unit Drama TV, RTM lakonan Atu Zero, Along Cham, Syafie Naswip, Reen Rahim, Eric Fuzi, Syanie Hisham, Catriona Ross, Ieda Moin, Noorkhiriah dan penampilan istimewa Roy Azman.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110133000 +0000" stop="20240110150000 +0000" channel="2.mana2_my">
-		<title lang="en">Konsert Minggu Ini 2020</title>
-		<desc lang="en">Saksikan Konsert Minggu Ini terbitan Unit Hiburan TV, RTM.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110150000 +0000" stop="20240110160000 +0000" channel="2.mana2_my">
-		<title lang="en">The One That Got Away</title>
-		<desc lang="en">Mengisahkan Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak iaitu Alex, Darcy dan Zoe.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110160000 +0000" stop="20240110163000 +0000" channel="2.mana2_my">
-		<title lang="en">OBB (Orang Baik-Baik)</title>
-		<desc lang="en">Majalah yang diterbitkan dari idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan war</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110163000 +0000" stop="20240110173000 +0000" channel="2.mana2_my">
-		<title lang="en">Cermin Kasih Amira</title>
-		<desc lang="en">Drama Bersiri.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110173000 +0000" stop="20240110180000 +0000" channel="2.mana2_my">
-		<title lang="en">Kafe Safiah</title>
-		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan , persahabatan dan percintaan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110180000 +0000" stop="20240110183000 +0000" channel="2.mana2_my">
-		<title lang="en">Moodupani</title>
-		<desc lang="en">Lakonan M.J Nada, Shielaa, K.S Maniam dan Indrani. Kisah pengorbanan dan kekuatan dalam menempuhi ranjau kehidupan yang penuh dengan konflik dan ujian hidup yang memerlukan kesabaran dan menyentuh emosi.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110183000 +0000" stop="20240110190000 +0000" channel="2.mana2_my">
-		<title lang="en">Uyiril Kalantha Uravu</title>
-		<desc lang="en">Drama kemasyarakatan antara hubungan  kekeluagaan, perhubungan percintaan dan konflik dalam memperjuangakn perjalanan hidup.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110190000 +0000" stop="20240110200000 +0000" channel="2.mana2_my">
-		<title lang="en">Impian Halaman Sekinchan</title>
-		<desc lang="en">Drama Mandarin.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110200000 +0000" stop="20240110220000 +0000" channel="2.mana2_my">
-		<title lang="en">Kalyanam</title>
-		<desc lang="en">Nehru adalah seorang remaja bisu yang telah menyaksikan pembunuhan seorang wanita sehingga dia dikejar oleh pembunuh tersebut untuk menghapuskan satu-satunya saksi kejadian.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110220000 +0000" stop="20240110230000 +0000" channel="2.mana2_my">
-		<title lang="en">Lembayung Kasihmu</title>
-		<desc lang="en">Mengisahkan tentang pengorbanan, kekeluargaan, kasih sayang dan cabaran dalam kehidupan untuk menampung hidup seharian.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110230000 +0000" stop="20240110233000 +0000" channel="2.mana2_my">
-		<title lang="en">Soccer Bugs</title>
-		<desc lang="en">Animasi mengisahkan sekumpulan serangga.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240110233000 +0000" stop="20240111000000 +0000" channel="2.mana2_my">
-		<title lang="en">Arnab Dan Kura-Kura (S2)</title>
-		<desc lang="en">Animasik menarik yang sarat dengan pengajaran dan pendidikan.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240111000000 +0000" stop="20240111003000 +0000" channel="2.mana2_my">
-		<title lang="en">Adi Genius</title>
-		<desc lang="en">Ikuti kisah sAdi yang bijak dan genius menempuhi kehidupannya di kampung.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240111003000 +0000" stop="20240111010000 +0000" channel="2.mana2_my">
-		<title lang="en">Ejen 123 (SR2)</title>
-		<desc lang="en">Kisah 3 ejen yang membantu membanteras penyakit yang menyerang manusia. Mereka memberi pendedahan tentang penyakit-penyakit berkenaan dari segi pengertian, punca, cara rawatan dan cara mengelakkan serangan setiap penyakit.</desc>
-		<episode/>
-		<category/>
-		<rating/>
-	</programme>
-	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="2.mana2_my">
+	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Imamku Okey</title>
-		<desc lang="en">Akibat berkahwin atas desakan keluarga , hubungan Adam dan Aishah saling membenci meskipun telah berkahwin. Sehinggalah dengan kehadiran seorang anak angkat.</desc>
+		<desc lang="en">Adam dan Aishah berkahwin atas pilihan keluarga. Umi sahabat baik Aishah telah mengamanahkan Aishah dan Adam untuk menjaga anaknya, Iman sekiranya dia dan suaminya, Rashid telah tiada. Setelah Umi dan Rashid meninggal dalam kemalangan, Iman diletakkan dibawah jagaan Adam dan Aishah. Suraya yang obsess dengan Adam membuat muslihat agar dia dapat berkahwin dengan Adam. Lakonan : Ashraf Muslim, Sharifah Husna, Hanna Aqeela, Liza Abdullah &amp; Zaidi Omar.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111020000 +0000" stop="20240111030000 +0000" channel="2.mana2_my">
-		<title lang="en">Jom Shoppe (Episod)</title>
-		<desc lang="en">Sebuah rancangan membeli-belah dalam talian khas untuk anda.</desc>
+	<programme start="20240110020000 +0000" stop="20240110030000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">One Shot Erra Version</title>
+		<desc lang="en">Sebuah rancangan membeli belah melalui talian khas untuk anda.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="2.mana2_my">
+	<programme start="20240110030000 +0000" stop="20240110040000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">True Beauty</title>
-		<desc lang="en">Drama bersiri korea lakonan Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young dan Park Yoo-Na.</desc>
+		<desc lang="en">Lim Ju Kyung berjaya mendapat jolokan gadis tercantik setelah mahir dalam seni solekan yang dipelajarinya melalui internet. Dia berubah menjadi seorang dewi kerana kemahiran solekannya itu. Lim Ju Kyung amat takut jika orang lain melihat wajahnya tanpa solekan. Namun, semuanya berubah apabila dia berjumpa pelajar lelaki bernama Lee Su Ho. Lee Su Ho merupakan pelajar tampan yang sering kelihatan dingin namun hakikatnya dia sangat penyayang. Ju Kyung dan Su Ho menjadi rapat dan sering berkongsi rahsia hingga terbit rasa cinta antara mereka. Mampukah Su Ho membuat Ju Kyung menemui kecantikan sejatinya? Lakonan : Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young, Park Yoo-Na.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111040000 +0000" stop="20240111042000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA MANDARIN</title>
-		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan</desc>
+	<programme start="20240110040000 +0000" stop="20240110042000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Mandarin</title>
+		<desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111042000 +0000" stop="20240111043000 +0000" channel="2.mana2_my">
+	<programme start="20240110042000 +0000" stop="20240110043000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Galeri Mandarin 2024</title>
 		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111043000 +0000" stop="20240111050000 +0000" channel="2.mana2_my">
-		<title lang="en">WORLD TODAY</title>
+	<programme start="20240110043000 +0000" stop="20240110050000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">World Today</title>
 		<desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111050000 +0000" stop="20240111060000 +0000" channel="2.mana2_my">
+	<programme start="20240110050000 +0000" stop="20240110060000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">All Around Champion</title>
-		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara.</desc>
+		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara. Mereka tidak akan bertanding dalam sukan mereka sendiri, tetapi mereka akan bersaing antara satu sama lain.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111060000 +0000" stop="20240111070000 +0000" channel="2.mana2_my">
-		<title lang="en">Waris (S2)</title>
-		<desc lang="en">Drama bersiri lakonan Zahiril Adzim, Nas T, Linda Hashim, Kavitha Sidhu, Liana Nordin dan Amelia Chen.</desc>
+	<programme start="20240110060000 +0000" stop="20240110070000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Waris</title>
+		<desc lang="en">Ari tinggal bersama Mak Longnya di Ampang Batu setelah kejadian yang berlaku di Mendekar. Dia mendapat sokongan kakaknya, Kasma juga Tina, kawan baiknya. Begitu pun kehadirannya di situ tidak disenangi sebahagian penduduk kampung terutamanya Rubiah. Namun segalanya tidak mematahkan semangat Ari untuk terus berbakti mengubati penyakit dan membuat ubat-ubatan herba membantu mereka yang memerlukan bantuannya untuk berubat. Pada masa sama dia terpaksa berdepan dilema semangat harimau yang diwarisinya. Lakonan : Zahiril Adzim, Nas T, Linda Hashim, Kavita Sidhu, Lana Nordin dan Amelia Chen.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111070000 +0000" stop="20240111090000 +0000" channel="2.mana2_my">
-		<title lang="en">Tears Of Phython</title>
-		<desc lang="en">Kisah dongeng tentang jelmaan ular yang menghantui hidup seorang pemuda.</desc>
+	<programme start="20240110070000 +0000" stop="20240110090000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Kalyanam</title>
+		<desc lang="en">Raja dan Rathika masing-masing berasal dari keluarga berada. Setelah mendirikan rumah tangga, mereka menjalani kehidupan harian mengikut rentak masing-masing. Lakonan : David, Nithya, Suganthi Perumal dan Vijayashanthi.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111090000 +0000" stop="20240111100000 +0000" channel="2.mana2_my">
+	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Tua Separuh Muda</title>
-		<desc lang="en">Drama bersiri lakonan Shafie Tee, Firdaus Gufran, Thomson Goh, Jenicca Mae, Anita Baharom, Rosnah Johari, Aida Khalida dan Beego.</desc>
+		<desc lang="en">Drama komedi ini memaparkan 4 sahabat kembali menjadi muda setelah berhasil menghasilkan satu formula yang menyebabkan berlaku kebakaran di makmal mereka. Datin mengupah penyiasat mencari 4 saintis tersebut dan mendapatkan semula formula itu. Ah Chong berusaha mencipta formula lain agar mereka kembali normal. Setelah menerima notis Ah Choon dan Khoon gelidah masuk semula ke makmal bagi mencari bukti aktiviti haram Datin. Lakonan : Shafie Tee, Firdaus Gufran,Thomson Goh, Jenicca Mae, Anita Baharom , Rosnah Johari, Aida Khalida dan Beego.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111100000 +0000" stop="20240111103000 +0000" channel="2.mana2_my">
+	<programme start="20240110100000 +0000" stop="20240110103000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Nella The Princess Knight</title>
-		<desc lang="en">Rancangan animasi yang mengisahkan tentang Puteri Nella yang juga seorang pahlawan, berani menempuh segala halangan.</desc>
+		<desc lang="en">Ikuti pengembaraan Nella, seorang Puteri yang luar biasa bersama pahlawannya yang setia, Sir Garrett dan juga Clod si kuda yang berani bersama Trinket, Unicorn yang sentiasa ceria. Mereka bersama-sama berjuang menentang kejahatan demi sebuah keadilan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111103000 +0000" stop="20240111110000 +0000" channel="2.mana2_my">
-		<title lang="en">Bila Bayan Bercerita</title>
-		<desc lang="en">Kisah keluarga Cikgu Azli yang membimbing anak-anak Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian.</desc>
+	<programme start="20240110103000 +0000" stop="20240110110000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Nadim</title>
+		<desc lang="en">Kisah Nadim, kanak-kanak yang cintakan ilmu pengetahuan, berkongsi pengalamannya melawat tempat-tempat menarik dalam negara. Nadim juga menyelesaikan masalah yang dihadapinya dengan bijak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111110000 +0000" stop="20240111113000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA MANDARIN</title>
-		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+	<programme start="20240110110000 +0000" stop="20240110113000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Mandarin</title>
+		<desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111113000 +0000" stop="20240111120000 +0000" channel="2.mana2_my">
-		<title lang="en">BERITA TAMIL</title>
+	<programme start="20240110113000 +0000" stop="20240110120000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Tamil</title>
 		<desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111120000 +0000" stop="20240111130000 +0000" channel="2.mana2_my">
+	<programme start="20240110120000 +0000" stop="20240110130000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Witch At Court</title>
-		<desc lang="en">Drama bersiri Korea lakonan Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa dan Kim Kwon.</desc>
+		<desc lang="en">Mengisahkan Ma Yi Deum yang sudah bekerja sebagai pendakwa raya selama 7 tahun, Ma Yi Deum sanggup melakukan apa saja asalkan beliau menang kes di mahkamah, malah beliau juga gemar menyelesaikan kes - kes berprofil tinggi yang mendapat perhatian media. Namun , Ma Yi Deum telah dipindahkan ke satu unit khas yang diketuai oleh Min Ji Sook yang hanya menguruskan kes - kes yang berkaitan jenayah seks sahaja. Ma Yi Deum berat hati dan tidak suka dipindahkan ke unit tersebut. Lakonan : Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa, Kim Kwon.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111130000 +0000" stop="20240111133000 +0000" channel="2.mana2_my">
-		<title lang="en">Mai Cek Mai</title>
-		<desc lang="en">Drama bersiri lakonan Imuda, Mamak Puteh dan Khatijah Tan, Ebby Yus dan Ilya Buang.</desc>
+	<programme start="20240110130000 +0000" stop="20240110133000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Apartmen Putra 59200 (Musim 5)</title>
+		<desc lang="en">Ba terjumpa sebuah buku selepas Maya berkemas di kedainya. Setelah membacanya, Ba jadi obsess dengan buku itu. Lalu, Ba menjadi ‘pakar’ dan taksub tentang cerita Israk Mikraj. Sampaikan anak sedara yang datang bercuti di rumahnya pun ajak solat Ba buat macam-macam alasan. Anak saudaranya itu menegur sikap Pak cik yang culas solat sedangkan sibuk cerita tentang keajaiban Israk Mikraj. Ustaz Nafis ajak kita semua banyak membaca, jangan baca satu buku sahaja. Lakonan : Atu Zero, Along Cham, Syafie Naswip, Reen Rahim, Eric Fuzi, Syanie Hisham, Catriona Ross, Ieda Moin dan Noorkhiriah dengan penampilan istimewa Dottie Abraz, PU Yeop dan Baqir Jamalullail.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111133000 +0000" stop="20240111150000 +0000" channel="2.mana2_my">
-		<title lang="en">Konsert Minggu Ini 2020</title>
-		<desc lang="en">Saksikan Konsert Minggu Ini terbitan Unit Hiburan TV, RTM.</desc>
+	<programme start="20240110133000 +0000" stop="20240110150000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Konsert Minggu Ini (Dato' Zainal Abidin)</title>
+		<desc lang="en">Saksikan kembali persembahan hebat Dato' Zainal Abidin dalam konsert terbitan Unit Hiburan TV, RTM.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111150000 +0000" stop="20240111160000 +0000" channel="2.mana2_my">
+	<programme start="20240110150000 +0000" stop="20240110160000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">The One That Got Away</title>
-		<desc lang="en">Mengisahkan Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak iaitu Alex, Darcy dan Zoe.</desc>
+		<desc lang="en">Mengisahkan tentang Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak lalu terlibat dalam suatu kemalangan hingga menyebabkan dia koma. Bekas kekasihnya bersepakat untuk bergilir- gilir menjaga Liam. Lakonan : Lovi Poe, Max Collins, Rhian Ramos dan Dennis Trillo.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111160000 +0000" stop="20240111163000 +0000" channel="2.mana2_my">
+	<programme start="20240110160000 +0000" stop="20240110163000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">OBB (Orang Baik-Baik)</title>
-		<desc lang="en">Majalah yang diterbitkan dari idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan war</desc>
+		<desc lang="en">Majalah yang diterbitkan berdasarkan idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan warga yang layak diiktiraf sebagai Obb berlandaskan aktiviti kemasyarakatan atau kebajikan yang diusahakan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111163000 +0000" stop="20240111173000 +0000" channel="2.mana2_my">
+	<programme start="20240110163000 +0000" stop="20240110173000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Cermin Kasih Amira</title>
-		<desc lang="en">Drama Bersiri.</desc>
+		<desc lang="en">Amira dibesarkan oleh ayahnya. Walau hidup dihimpit duka, mereka bertuah kerana dikelilingi insan-insan yang baik hati. Lakonan : Almy Nadia, Mahmud Alibasha, Roy Azman, Oshen, Faried Wari, Nor Albaniah, Maria Farida, Priya Kalpana dan Jamal Mohideen.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111173000 +0000" stop="20240111180000 +0000" channel="2.mana2_my">
+	<programme start="20240110173000 +0000" stop="20240110180000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Kafe Safiah</title>
-		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan , persahabatan dan percintaan.</desc>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan. Lakonan :  Ifa Raziah, Pushpa Narayan, Mardiana Alwi, Mazlan Mohktar, Alex Yanz, Delimawati dan Along Kamaludin.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111180000 +0000" stop="20240111183000 +0000" channel="2.mana2_my">
+	<programme start="20240110180000 +0000" stop="20240110183000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Moodupani</title>
-		<desc lang="en">Lakonan M.J Nada, Shielaa, K.S Maniam dan Indrani. Kisah pengorbanan dan kekuatan dalam menempuhi ranjau kehidupan yang penuh dengan konflik dan ujian hidup yang memerlukan kesabaran dan menyentuh emosi.</desc>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111183000 +0000" stop="20240111190000 +0000" channel="2.mana2_my">
+	<programme start="20240110183000 +0000" stop="20240110190000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Uyiril Kalantha Uravu</title>
-		<desc lang="en">Drama kemasyarakatan antara hubungan  kekeluagaan, perhubungan percintaan dan konflik dalam memperjuangakn perjalanan hidup.</desc>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111190000 +0000" stop="20240111200000 +0000" channel="2.mana2_my">
+	<programme start="20240110190000 +0000" stop="20240110200000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Impian Halaman Sekinchan</title>
-		<desc lang="en">Drama Mandarin.</desc>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111200000 +0000" stop="20240111220000 +0000" channel="2.mana2_my">
-		<title lang="en">Tears Of Phython</title>
-		<desc lang="en">Kisah dongeng tentang jelmaan ular yang menghantui hidup seorang pemuda.</desc>
+	<programme start="20240110200000 +0000" stop="20240110220000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Kalyanam</title>
+		<desc lang="en">Raja dan Rathika masing-masing berasal dari keluarga berada. Setelah mendirikan rumah tangga, mereka menjalani kehidupan harian mengikut rentak masing-masing. Lakonan : David, Nithya, Suganthi Perumal dan Vijayashanthi.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111220000 +0000" stop="20240111230000 +0000" channel="2.mana2_my">
+	<programme start="20240110220000 +0000" stop="20240110220200 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Pembukaan - Negaraku</title>
+		<desc lang="en">Lagu Negaraku</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110220200 +0000" stop="20240110230000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Lembayung Kasihmu</title>
-		<desc lang="en">Mengisahkan tentang pengorbanan, kekeluargaan, kasih sayang dan cabaran dalam kehidupan untuk menampung hidup seharian.</desc>
+		<desc lang="en">Kisah seorang gadis yang terpaksa berkorban untuk membantu keluarganya yang miskin di kampung. Dia terpaksa bertungkus lumus untuk mencari sumber kewangan dan berhadapan dengan pelbagai kerenah dari orang-orang di sekelilingnya. Lakonan: Shah Jaszle, Khatijah Tan dan Fauziah Gous.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111230000 +0000" stop="20240111233000 +0000" channel="2.mana2_my">
+	<programme start="20240110230000 +0000" stop="20240110233000 +0000" channel="2.rtmklik_rtm_gov_my">
 		<title lang="en">Soccer Bugs</title>
-		<desc lang="en">Animasi mengisahkan sekumpulan serangga.</desc>
+		<desc lang="en">Kisah sekumpulan serangga yang sangat meminati sukan bola sepak lalu menubuhkan satu pasukan bola sepak untuk bersaing dengan pasukan lain.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240111233000 +0000" stop="20240112000000 +0000" channel="2.mana2_my">
-		<title lang="en">Arnab Dan Kura-Kura (S2)</title>
-		<desc lang="en">Animasik menarik yang sarat dengan pengajaran dan pendidikan.</desc>
+	<programme start="20240110233000 +0000" stop="20240111000000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Arnab Dan Kura-Kura</title>
+		<desc lang="en">Memaparkan cereka dalam bentuk kartun animasi dan berunsur pendidikan khas bagi kanak-kanak.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111000000 +0000" stop="20240111003000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Adi Genius</title>
+		<desc lang="en">Animasi yang mengisahkan Adi, seorang anak yatim piatu yang bijak dan kreatif dalam pengunaan komputer. Setiap episod mempunyai jalan cerita sendiri dan sesuai untuk tontonan kanak-kanak agar turut sama menjadi pintar sebagaimana sifat Adi miliki.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111003000 +0000" stop="20240111010000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Ejen 123</title>
+		<desc lang="en">Kisah sekumpulan tiga ejen yang membantu membenteras penyakit yang menyerang manusia. Mereka turut berkongsi informasi tentang pelbagai penyakit dari segi pengertian, punca, cara rawatan dan cara mengelakan diri dari diserang penyakit tersebut.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Imamku Okey</title>
+		<desc lang="en">Adam dan Aishah berkahwin atas pilihan keluarga. Umi sahabat baik Aishah telah mengamanahkan Aishah dan Adam untuk menjaga anaknya, Iman sekiranya dia dan suaminya, Rashid telah tiada. Setelah Umi dan Rashid meninggal dalam kemalangan, Iman diletakkan dibawah jagaan Adam dan Aishah. Suraya yang obsess dengan Adam membuat muslihat agar dia dapat berkahwin dengan Adam. Lakonan : Ashraf Muslim, Sharifah Husna, Hanna Aqeela, Liza Abdullah &amp; Zaidi Omar.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111020000 +0000" stop="20240111030000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">One Shot Erra Version</title>
+		<desc lang="en">Sebuah rancangan membeli belah melalui talian khas untuk anda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">True Beauty</title>
+		<desc lang="en">Lim Ju Kyung berjaya mendapat jolokan gadis tercantik setelah mahir dalam seni solekan yang dipelajarinya melalui internet. Dia berubah menjadi seorang dewi kerana kemahiran solekannya itu. Lim Ju Kyung amat takut jika orang lain melihat wajahnya tanpa solekan. Namun, semuanya berubah apabila dia berjumpa pelajar lelaki bernama Lee Su Ho. Lee Su Ho merupakan pelajar tampan yang sering kelihatan dingin namun hakikatnya dia sangat penyayang. Ju Kyung dan Su Ho menjadi rapat dan sering berkongsi rahsia hingga terbit rasa cinta antara mereka. Mampukah Su Ho membuat Ju Kyung menemui kecantikan sejatinya? Lakonan : Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young, Park Yoo-Na.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111040000 +0000" stop="20240111042000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Mandarin</title>
+		<desc lang="en">Ikuti berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111042000 +0000" stop="20240111043000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Galeri Mandarin 2024</title>
+		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111043000 +0000" stop="20240111050000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">World Today</title>
+		<desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111050000 +0000" stop="20240111060000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">All Around Champion</title>
+		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara. Mereka tidak akan bertanding dalam sukan mereka sendiri, tetapi mereka akan bersaing antara satu sama lain.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111060000 +0000" stop="20240111070000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Waris</title>
+		<desc lang="en">Ari tinggal bersama Mak Longnya di Ampang Batu setelah kejadian yang berlaku di Mendekar. Dia mendapat sokongan kakaknya, Kasma juga Tina, kawan baiknya. Begitu pun kehadirannya di situ tidak disenangi sebahagian penduduk kampung terutamanya Rubiah. Namun segalanya tidak mematahkan semangat Ari untuk terus berbakti mengubati penyakit dan membuat ubat-ubatan herba membantu mereka yang memerlukan bantuannya untuk berubat. Pada masa sama dia terpaksa berdepan dilema semangat harimau yang diwarisinya. Lakonan : Zahiril Adzim, Nas T, Linda Hashim, Kavita Sidhu, Lana Nordin dan Amelia Chen.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111070000 +0000" stop="20240111090000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Tears Of Phython</title>
+		<desc lang="en">Kisah dongeng tentang jelmaan ular yang menghantui hidup seorang pemuda. Lakonan : Wee Ping Goh, May June Tan, Kelvin Leong dan Jeffery Wong.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111090000 +0000" stop="20240111100000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Tua Separuh Muda</title>
+		<desc lang="en">Drama komedi ini memaparkan 4 sahabat kembali menjadi muda setelah berhasil menghasilkan satu formula yang menyebabkan berlaku kebakaran di makmal mereka. Datin mengupah penyiasat mencari 4 saintis tersebut dan mendapatkan semula formula itu. Ah Chong berusaha mencipta formula lain agar mereka kembali normal. Setelah menerima notis Ah Choon dan Khoon gelidah masuk semula ke makmal bagi mencari bukti aktiviti haram Datin. Lakonan : Shafie Tee, Firdaus Gufran,Thomson Goh, Jenicca Mae, Anita Baharom , Rosnah Johari, Aida Khalida dan Beego.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111100000 +0000" stop="20240111103000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Nella The Princess Knight</title>
+		<desc lang="en">Ikuti pengembaraan Nella, seorang Puteri yang luar biasa bersama pahlawannya yang setia, Sir Garrett dan juga Clod si kuda yang berani bersama Trinket, Unicorn yang sentiasa ceria. Mereka bersama-sama berjuang menentang kejahatan demi sebuah keadilan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111103000 +0000" stop="20240111110000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Bila Bayan Bercerita</title>
+		<desc lang="en">Kisah keluarga Cikgu Azli yang membimbing anak-anaknya Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian. Teguran dan nasihat disampaikan dengan menggunakan patung burung bayan untuk bercerita dan si bapa akan meminta anak-anaknya berfikir sendiri dan menyelesaikan masalah yang mereka hadapi. Lakonan : Nina Emelyn, Heryanto Hassan, Shafimie Saedon dan Amyza Aznan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111110000 +0000" stop="20240111113000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Mandarin</title>
+		<desc lang="en">Berita berbahasa Mandarin yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111113000 +0000" stop="20240111120000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Berita Tamil</title>
+		<desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111120000 +0000" stop="20240111130000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Witch At Court</title>
+		<desc lang="en">Mengisahkan Ma Yi Deum yang sudah bekerja sebagai pendakwa raya selama 7 tahun, Ma Yi Deum sanggup melakukan apa saja asalkan beliau menang kes di mahkamah, malah beliau juga gemar menyelesaikan kes - kes berprofil tinggi yang mendapat perhatian media. Namun , Ma Yi Deum telah dipindahkan ke satu unit khas yang diketuai oleh Min Ji Sook yang hanya menguruskan kes - kes yang berkaitan jenayah seks sahaja. Ma Yi Deum berat hati dan tidak suka dipindahkan ke unit tersebut. Lakonan : Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa, Kim Kwon.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111130000 +0000" stop="20240111133000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Mai Cek Mai</title>
+		<desc lang="en">Sitkom komedi yang memaparkan seni budaya terkenal negeri Pulau Pinang iaitu Boria yang diselang selikan dengan sketsa lawak jenaka yang membawa mesej-mesej positif dan tersirat serta pengajaran. Lakonan : Imuda, Mamak Puteh, Farouk Hussain, Juita Johari dan Razali Hussain.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111133000 +0000" stop="20240111150000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">Konsert Minggu Ini (Francissca Peter)</title>
+		<desc lang="en">Saksikan kembali persembahan istimewa Francissca Peter dalam konsert terbitan Unit Hiburan TV, RTM.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111150000 +0000" stop="20240111160000 +0000" channel="2.rtmklik_rtm_gov_my">
+		<title lang="en">The One That Got Away</title>
+		<desc lang="en">Mengisahkan tentang Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak lalu terlibat dalam suatu kemalangan hingga menyebabkan dia koma. Bekas kekasihnya bersepakat untuk bergilir- gilir menjaga Liam. Lakonan : Lovi Poe, Max Collins, Rhian Ramos dan Dennis Trillo.</desc>
 		<episode/>
 		<category/>
 		<rating/>
