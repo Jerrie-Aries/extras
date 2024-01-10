@@ -1,3 +1,1484 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="epg_grabber">
+	<channel id="20.mana2_my">
+		<display-name lang="en">TV IKIM</display-name>
+		<icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jnkfvh.png"/>
+	</channel>
+	<channel id="26.mana2_my">
+		<display-name lang="en">TV ALHIJRAH</display-name>
+		<icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lvonbc.png"/>
+	</channel>
+	<channel id="27.mana2_my">
+		<display-name lang="en">BERNAMA</display-name>
+		<icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/jpwqvz.png"/>
+	</channel>
+	<programme start="20240110000000 +0000" stop="20240110010000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 8:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 9:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110020000 +0000" stop="20240110030000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 10:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110030000 +0000" stop="20240110040000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 11:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110040000 +0000" stop="20240110050000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 12:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110050000 +0000" stop="20240110060000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 1:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110060000 +0000" stop="20240110070000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 2:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110070000 +0000" stop="20240110080000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 3:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110080000 +0000" stop="20240110090000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 4:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 5:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110100000 +0000" stop="20240110110000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 6:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110110000 +0000" stop="20240110120000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 7:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110120000 +0000" stop="20240110130000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 8:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110130000 +0000" stop="20240110140000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 9:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110140000 +0000" stop="20240110150000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 10:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110150000 +0000" stop="20240110160000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 11:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110160000 +0000" stop="20240110170000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 12:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110170000 +0000" stop="20240110180000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 1:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110180000 +0000" stop="20240110190000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 2:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110190000 +0000" stop="20240110200000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 3:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110200000 +0000" stop="20240110210000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 4:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110210000 +0000" stop="20240110220000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 5:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110220000 +0000" stop="20240110230000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 6:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110230000 +0000" stop="20240111000000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 7:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111000000 +0000" stop="20240111010000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 8:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 9:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111020000 +0000" stop="20240111030000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 10:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 11:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111040000 +0000" stop="20240111050000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 12:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111050000 +0000" stop="20240111060000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 1:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111060000 +0000" stop="20240111070000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 2:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111070000 +0000" stop="20240111080000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 3:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111080000 +0000" stop="20240111090000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 4:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111090000 +0000" stop="20240111100000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 5:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111100000 +0000" stop="20240111110000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 6:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111110000 +0000" stop="20240111120000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 7:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111120000 +0000" stop="20240111130000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 8:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111130000 +0000" stop="20240111140000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 9:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111140000 +0000" stop="20240111150000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 10:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111150000 +0000" stop="20240111160000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 11:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111160000 +0000" stop="20240111170000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 12:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111170000 +0000" stop="20240111180000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 1:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111180000 +0000" stop="20240111190000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 2:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111190000 +0000" stop="20240111200000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 3:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111200000 +0000" stop="20240111210000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 4:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111210000 +0000" stop="20240111220000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 5:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111220000 +0000" stop="20240111230000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 6:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111230000 +0000" stop="20240112000000 +0000" channel="20.mana2_my">
+		<title lang="en">Program @ 7:00 AM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240109230000 +0000" stop="20240110010000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum(L)</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum An-Nisa (L)</title>
+		<desc lang="en">Program yang membawa pelbagai isu hal ehwal wanita &amp; mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110020000 +0000" stop="20240110023000 +0000" channel="26.mana2_my">
+		<title lang="en">Ad Dhuha</title>
+		<desc lang="en">Kompilasi doa, zikir dan bacaan al quran berkaitan Dhuha</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110023000 +0000" stop="20240110030000 +0000" channel="26.mana2_my">
+		<title lang="en">Selawat,Zikir &amp; Surah</title>
+		<desc lang="en">Alunan selawat,zikir dan bacaan al quran</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110030000 +0000" stop="20240110040000 +0000" channel="26.mana2_my">
+		<title lang="en">Quran@114 (L)</title>
+		<desc lang="en">Sebuah program berorientasikan tadabbur al-quran disertakan pengajaran tajwid dan tarannum Al- Quran.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110040000 +0000" stop="20240110043000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum Ustaz</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110043000 +0000" stop="20240110050000 +0000" channel="26.mana2_my">
+		<title lang="en">Mai Ngaji</title>
+		<desc lang="en">Program ini memaparkan pembelajar ilmu tajwid dan makna ayat Al-Quran menerusi kaedah talaqi secara beramai-ramai.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110050000 +0000" stop="20240110053000 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Zohor</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110053000 +0000" stop="20240110060000 +0000" channel="26.mana2_my">
+		<title lang="en">40 Kalam Junjungan</title>
+		<desc lang="en">Sebuah program menerangkan tentang ilmu daripada kalam suci yang boleh diterapkan dalam kehidupan harian kita</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110060000 +0000" stop="20240110070000 +0000" channel="26.mana2_my">
+		<title lang="en">Aku Ada Wali</title>
+		<desc lang="en">Maya masih tidak dapat melupakan arwah suaminya Farhan. Pada masa yang sama dia bertemu dengan Misyal, seorang graduan UIA yang mengambil jurusan syariah. Abang iparnya juga cuba memikat Maya.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110070000 +0000" stop="20240110080000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110080000 +0000" stop="20240110083000 +0000" channel="26.mana2_my">
+		<title lang="en">Best of Cinta Ilmu</title>
+		<desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110083000 +0000" stop="20240110090000 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Asar</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="26.mana2_my">
+		<title lang="en">Kasih Dari Langit</title>
+		<desc lang="en">Mengisahkan Raisha berasal dari keluarga ahli perniagaan terkenal yang mempunyai berlainan prinsip dengan bapanya. Bapanya mencabar Raisha berkahwin dengan seorang lelaki biasa dan disambut cabaran itu olehnya</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110100000 +0000" stop="20240110110000 +0000" channel="26.mana2_my">
+		<title lang="en">Gema Haflah</title>
+		<desc lang="en">Majlis bacaan Al-Quran yang dengan pelbagai Tarannum</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110110000 +0000" stop="20240110112500 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Maghrib</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110112500 +0000" stop="20240110113000 +0000" channel="26.mana2_my">
+		<title lang="en">Kapsul Inspirasi</title>
+		<desc lang="en">Tazkirah ringkas yang mengangkat tema tentang sumber motivasi dan dorongan untuk mencapai tujuan dalam hidup serta mengamalkan nila-nilai Islam dalam kehidupan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110113000 +0000" stop="20240110120000 +0000" channel="26.mana2_my">
+		<title lang="en">Cinta Ilmu 2024</title>
+		<desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110120000 +0000" stop="20240110123000 +0000" channel="26.mana2_my">
+		<title lang="en">Berita Alhijrah (L)</title>
+		<desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham &amp; ekonomi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110123000 +0000" stop="20240110130000 +0000" channel="26.mana2_my">
+		<title lang="en">Riwayat Akhir Zaman Palestin</title>
+		<desc lang="en">Mendalami peristiwa-peristiwa akhir zaman, alam ghaib atau alam barzakh.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110130000 +0000" stop="20240110140000 +0000" channel="26.mana2_my">
+		<title lang="en">Dakwah Live</title>
+		<desc lang="en">Sebuah program siaran langsung  membincangkan isu-isu semasa yang berlaku dalam kehidupan masyarakat muslim khususnya yang akan dikupas dari perspektif ilmuan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110140000 +0000" stop="20240110143000 +0000" channel="26.mana2_my">
+		<title lang="en">Qawiy Was Here</title>
+		<desc lang="en">Sebuah program santai yang menampilkan Qawiy sebagai host yang akan menunjukkan tempat-tempat menarik serta menguji bacaan al-quran orang awam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110143000 +0000" stop="20240110150000 +0000" channel="26.mana2_my">
+		<title lang="en">Surah Al Mulk</title>
+		<desc lang="en">Bacaan alunan surah Al-Mulk</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110150000 +0000" stop="20240110160000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110160000 +0000" stop="20240110163000 +0000" channel="26.mana2_my">
+		<title lang="en">Cinta Ilmu 2024</title>
+		<desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110163000 +0000" stop="20240110170000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalam Ustaz</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110170000 +0000" stop="20240110173000 +0000" channel="26.mana2_my">
+		<title lang="en">Reflections</title>
+		<desc lang="en">Imam Suhaib Webb meneruskan tafsiran surah AlBaqarah dengan menyatakan dunia ini hanyalah sementara setiap dari kita akan mati</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110173000 +0000" stop="20240110180000 +0000" channel="26.mana2_my">
+		<title lang="en">Saat Syahdu</title>
+		<desc lang="en">Zikir dan selawat</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110180000 +0000" stop="20240110200000 +0000" channel="26.mana2_my">
+		<title lang="en">Siaran Langsung Mekah</title>
+		<desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasaТ dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110200000 +0000" stop="20240110210000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110210000 +0000" stop="20240110220000 +0000" channel="26.mana2_my">
+		<title lang="en">Quran@114</title>
+		<desc lang="en">Sebuah program berorientasikan tadabbur al-quran disertakan pengajaran tajwid dan tarannum Al- Quran.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110220000 +0000" stop="20240110230000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum Subuh (L)</title>
+		<desc lang="en">Program bual bicara keagamaanmengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110230000 +0000" stop="20240111010000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum(L)</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum An-Nisa (L)</title>
+		<desc lang="en">Program yang membawa pelbagai isu hal ehwal wanita &amp; mengangkat ikon Wanita Syurga Saidatina Siti Khadijah RA.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111020000 +0000" stop="20240111023000 +0000" channel="26.mana2_my">
+		<title lang="en">Ad Dhuha</title>
+		<desc lang="en">Kompilasi doa, zikir dan bacaan al quran berkaitan Dhuha</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111023000 +0000" stop="20240111030000 +0000" channel="26.mana2_my">
+		<title lang="en">Selawat,Zikir &amp; Surah</title>
+		<desc lang="en">Alunan selawat,zikir dan bacaan al quran</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="26.mana2_my">
+		<title lang="en">Quran@114</title>
+		<desc lang="en">Sebuah program berorientasikan tadabbur al-quran disertakan pengajaran tajwid dan tarannum Al- Quran.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111040000 +0000" stop="20240111043000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum Ustaz</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111043000 +0000" stop="20240111050000 +0000" channel="26.mana2_my">
+		<title lang="en">Fiqh Awlawiyat</title>
+		<desc lang="en">Sebuah program menerangkan tentang ilmu  yang boleh diterapkan dalam kehidupan harian kita yang disampaikan oleh Ustaz Nik Omar Nik Abdul Aziz</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111050000 +0000" stop="20240111053000 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Zohor</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111053000 +0000" stop="20240111060000 +0000" channel="26.mana2_my">
+		<title lang="en">Riwayat Akhir Zaman</title>
+		<desc lang="en">Sebuah program menerangkan tentang ilmu  yang boleh diterapkan dalam kehidupan harian kita yang disampaikan oleh Ustaz Somad.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111060000 +0000" stop="20240111063000 +0000" channel="26.mana2_my">
+		<title lang="en">Ya Nabiyallah SS1</title>
+		<desc lang="en">Program mendendangkan alunan selawat dan dzikir oleh artis artis dan kumpulan qasidah yang terkenal dan juga akan diselitkan dengan tazkirah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111063000 +0000" stop="20240111070000 +0000" channel="26.mana2_my">
+		<title lang="en">40 Kalam Junjungan SS3</title>
+		<desc lang="en">Sebuah program menerangkan tentang ilmu daripada kalam suci yang boleh diterapkan dalam kehidupan harian kita</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111070000 +0000" stop="20240111080000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111080000 +0000" stop="20240111083000 +0000" channel="26.mana2_my">
+		<title lang="en">Best Of Cinta Ilmu</title>
+		<desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111083000 +0000" stop="20240111090000 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Asar</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111090000 +0000" stop="20240111100000 +0000" channel="26.mana2_my">
+		<title lang="en">Dakwah Live</title>
+		<desc lang="en">Sebuah program siaran langsung  membincangkan isu-isu semasa yang berlaku dalam kehidupan masyarakat muslim khususnya yang akan dikupas dari perspektif ilmuan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111100000 +0000" stop="20240111110000 +0000" channel="26.mana2_my">
+		<title lang="en">Platform</title>
+		<desc lang="en">Program muzikal yang merupakan sebuah persembahan lagu-lagu nasyid dan ketuhanan dengan iringan muzik 'live' akustik yang melibatkan artis-artis terkenal tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111110000 +0000" stop="20240111112500 +0000" channel="26.mana2_my">
+		<title lang="en">Panggilan Agung Maghrib</title>
+		<desc lang="en">Himpunan Hadis, klip selawat, surah lazim dan Azan</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111112500 +0000" stop="20240111113000 +0000" channel="26.mana2_my">
+		<title lang="en">Kapsul Inspirasi</title>
+		<desc lang="en">Tazkirah ringkas yang mengangkat tema tentang sumber motivasi dan dorongan untuk mencapai tujuan dalam hidup serta mengamalkan nila-nilai Islam dalam kehidupan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111113000 +0000" stop="20240111120000 +0000" channel="26.mana2_my">
+		<title lang="en">Tawajjuh</title>
+		<desc lang="en">Alunan Bacaan Yassin untuk dibaca dan didengari bersama-sama.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111120000 +0000" stop="20240111123000 +0000" channel="26.mana2_my">
+		<title lang="en">Berita Alhijrah (L)</title>
+		<desc lang="en">Berita Utama Tv-Alhijrah terbahagi kepada beberapa segmen iaitu Berita Utama Harian, Berita Luar Negara, Laporan Khas, sukan, ramalan cuaca, saham &amp; ekonomi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111123000 +0000" stop="20240111130000 +0000" channel="26.mana2_my">
+		<title lang="en">Fiqh Awlawiyat</title>
+		<desc lang="en">Program yang mendedahkan generasi Islam masa kini kepada perkara-perkara yang sepatutnya diletakkan sebagai keutamaan dan keistimewaan serta hal-hal harus dan sebaliknya.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111130000 +0000" stop="20240111133000 +0000" channel="26.mana2_my">
+		<title lang="en">Ya Nabiyallah SS2</title>
+		<desc lang="en">Program mendendangkan alunan selawat dan dzikir oleh artis artis dan kumpulan qasidah yang terkenal dan juga akan diselitkan dengan tazkirah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111133000 +0000" stop="20240111140000 +0000" channel="26.mana2_my">
+		<title lang="en">Pesan Sang Khalik</title>
+		<desc lang="en">Program adaptasi buku membawa kita mengembara dari satu alam ke satu alam yang lain. Bermula dari Alam Roh sehinggalah ke Alam Mahsyar yang akan menjadi penentuan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111140000 +0000" stop="20240111143000 +0000" channel="26.mana2_my">
+		<title lang="en">Reflections SS3</title>
+		<desc lang="en">Program yang memberi perkongsian ilmu yang berguna untuk dijadikan teladan dan panduan untuk kita semua</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111143000 +0000" stop="20240111150000 +0000" channel="26.mana2_my">
+		<title lang="en">Surah Al Mulk</title>
+		<desc lang="en">Bacaan alunan surah Al-Mulk</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111150000 +0000" stop="20240111160000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111160000 +0000" stop="20240111163000 +0000" channel="26.mana2_my">
+		<title lang="en">Best Of Cinta Ilmu</title>
+		<desc lang="en">Sebuah program kerohanian yang menampilkan ilmuan Islam dari pelbagai bidang dalam mengupas kitab ilmu secara terperinci</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111163000 +0000" stop="20240111170000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalam Ustaz</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111170000 +0000" stop="20240111173000 +0000" channel="26.mana2_my">
+		<title lang="en">Reflections</title>
+		<desc lang="en">Imam Suhaib Webb meneruskan tafsiran surah AlBaqarah dengan menyatakan dunia ini hanyalah sementara setiap dari kita akan mati</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111173000 +0000" stop="20240111180000 +0000" channel="26.mana2_my">
+		<title lang="en">Saat Syahdu</title>
+		<desc lang="en">Zikir dan selawat</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111180000 +0000" stop="20240111200000 +0000" channel="26.mana2_my">
+		<title lang="en">Siaran Langsung Mekah</title>
+		<desc lang="en">Rancangan yang membawakan info-info ,hal ehwal semasaТ dan paparan keadaan terkini serta aktiviti persekitaran di Masjidil Haram Mekah dan Madinah.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111200000 +0000" stop="20240111210000 +0000" channel="26.mana2_my">
+		<title lang="en">My Qurantime 2.0</title>
+		<desc lang="en">Program tadabbur al-Quran bermula surah al-Fatihah, al- Baqarah dari  juzuk 1 hingga 30 iaitu sebanyak 604 muka surat.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111210000 +0000" stop="20240111220000 +0000" channel="26.mana2_my">
+		<title lang="en">Quran@114</title>
+		<desc lang="en">Sebuah program berorientasikan tadabbur al-quran disertakan pengajaran tajwid dan tarannum Al- Quran.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111220000 +0000" stop="20240111230000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum Subuh (L)</title>
+		<desc lang="en">Program bual bicara keagamaanmengupas topik berkaitan dengan menghidupkan ibadah di waktu Subuh bagi meraih keberkatan dari Allah SWT.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111230000 +0000" stop="20240112010000 +0000" channel="26.mana2_my">
+		<title lang="en">Assalamualaikum(L)</title>
+		<desc lang="en">Sebuah program bual bicara yang membicarakan topik-topik terkini dan menampilkan tetamu-tetamu undangan dari pelbagai bidang secara santai dan bersahaja</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110000000 +0000" stop="20240110003000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110003000 +0000" stop="20240110010000 +0000" channel="27.mana2_my">
+		<title lang="en">Radio@TV</title>
+		<desc lang="en">Program bual bicara topik-topik terkini lagi bermanfaat yang mengetengahkan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Khabar Malaysia</title>
+		<desc lang="en">Sebuah program bual bicara pagi berbahasa Melayu yang mengetengahkan isu-isu semasa dari portal Bernama, perkembangan terkini dari Biro/Koresponden Bernama serta hujahan pendapat dari tetamu jemputan dan menjadi platform</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110020000 +0000" stop="20240110021500 +0000" channel="27.mana2_my">
+		<title lang="en">Malaysia Sekilas Pandang</title>
+		<desc lang="en">Program Malaysia Sekilas Pandang membawakan rangkuman berita tempatan yang penting selain memberikan impak kepada kehidupan warga Malaysia serta persekitaran mereka. Peristiwa seminggu dipakejkan untuk diimbas kembal</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110021500 +0000" stop="20240110023000 +0000" channel="27.mana2_my">
+		<title lang="en">Global Catch Up</title>
+		<desc lang="en">The Nation is a 30-min talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110023000 +0000" stop="20240110030000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110030000 +0000" stop="20240110033000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110033000 +0000" stop="20240110040000 +0000" channel="27.mana2_my">
+		<title lang="en">ON e</title>
+		<desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110040000 +0000" stop="20240110043000 +0000" channel="27.mana2_my">
+		<title lang="en">The Brief</title>
+		<desc lang="en">The Nation is a 30-min talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110043000 +0000" stop="20240110044500 +0000" channel="27.mana2_my">
+		<title lang="en">SUKAN+ CLOSE UP</title>
+		<desc lang="en">Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110044500 +0000" stop="20240110050000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Kata Tetamu@AKM</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110050000 +0000" stop="20240110053000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110053000 +0000" stop="20240110060000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110060000 +0000" stop="20240110063000 +0000" channel="27.mana2_my">
+		<title lang="en">Program @ 2:00 PM</title>
+		<desc lang="en"/>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110063000 +0000" stop="20240110070000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110070000 +0000" stop="20240110073000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110073000 +0000" stop="20240110080000 +0000" channel="27.mana2_my">
+		<title lang="en">Dokumentari: Semua Tentang Kita Khas</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di sa</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110080000 +0000" stop="20240110083000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110083000 +0000" stop="20240110090000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110090000 +0000" stop="20240110093000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Malaysia Petang Ini</title>
+		<desc lang="en">Platform kupasan peristiwa penting dan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang dalam Malaysia Petang Ini.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110093000 +0000" stop="20240110100000 +0000" channel="27.mana2_my">
+		<title lang="en">Radio@TV</title>
+		<desc lang="en">Program bual bicara topik-topik terkini lagi bermanfaat yang mengetengahkan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110100000 +0000" stop="20240110103000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110103000 +0000" stop="20240110110000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Mandarin News</title>
+		<desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chi</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110110000 +0000" stop="20240110113000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Tamil News</title>
+		<desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110113000 +0000" stop="20240110114500 +0000" channel="27.mana2_my">
+		<title lang="en">SUKAN+ CLOSE UP</title>
+		<desc lang="en">Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110114500 +0000" stop="20240110120000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Sukan+</title>
+		<desc lang="en">Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110120000 +0000" stop="20240110123000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110123000 +0000" stop="20240110124500 +0000" channel="27.mana2_my">
+		<title lang="en">Global Catch Up</title>
+		<desc lang="en">The Nation is a 30-min talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110124500 +0000" stop="20240110130000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Kata Tetamu@AKM</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110130000 +0000" stop="20240110140000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110140000 +0000" stop="20240110143000 +0000" channel="27.mana2_my">
+		<title lang="en">Mandarin News</title>
+		<desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chinese</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110143000 +0000" stop="20240110150000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110150000 +0000" stop="20240110153000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110153000 +0000" stop="20240110160000 +0000" channel="27.mana2_my">
+		<title lang="en">Tamil News</title>
+		<desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110160000 +0000" stop="20240110170000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110170000 +0000" stop="20240110173000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110173000 +0000" stop="20240110180000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110180000 +0000" stop="20240110190000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110190000 +0000" stop="20240110193000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110193000 +0000" stop="20240110200000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110200000 +0000" stop="20240110203000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110203000 +0000" stop="20240110210000 +0000" channel="27.mana2_my">
+		<title lang="en">Darah Muda</title>
+		<desc lang="en">Majalah bual bicara Darah Muda musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110210000 +0000" stop="20240110213000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110213000 +0000" stop="20240110220000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110220000 +0000" stop="20240110223000 +0000" channel="27.mana2_my">
+		<title lang="en">Dokumentari: Semua Tentang Kita Khas</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di sa</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110223000 +0000" stop="20240110233000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240110233000 +0000" stop="20240111000000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111000000 +0000" stop="20240111003000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111003000 +0000" stop="20240111010000 +0000" channel="27.mana2_my">
+		<title lang="en">Radio@TV</title>
+		<desc lang="en">Program bual bicara topik-topik terkini lagi bermanfaat yang mengetengahkan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Khabar Malaysia</title>
+		<desc lang="en">Sebuah program bual bicara pagi berbahasa Melayu yang mengetengahkan isu-isu semasa dari portal Bernama, perkembangan terkini dari Biro/Koresponden Bernama serta hujahan pendapat dari tetamu jemputan dan menjadi platform</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111020000 +0000" stop="20240111023000 +0000" channel="27.mana2_my">
+		<title lang="en">ON e</title>
+		<desc lang="en">"ON e" memaparkan perkembangan industri hiburan merangkumi industri muzik, filem, teater dan drama tempatan serta luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111023000 +0000" stop="20240111030000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Citer Show</title>
+		<desc lang="en">Apa Citer Show merupakan sebuah program celoteh santai bersama tetamu menerusi video call yang mengentengahkan elemen inspirasi dan gaya hidup.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111030000 +0000" stop="20240111033000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111033000 +0000" stop="20240111034500 +0000" channel="27.mana2_my">
+		<title lang="en">SUKAN+ CLOSE UP</title>
+		<desc lang="en">Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111034500 +0000" stop="20240111040000 +0000" channel="27.mana2_my">
+		<title lang="en">Global Catch Up</title>
+		<desc lang="en">The Nation is a 30-min talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111040000 +0000" stop="20240111043000 +0000" channel="27.mana2_my">
+		<title lang="en">The Brief</title>
+		<desc lang="en">The Nation is a 30-min talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111043000 +0000" stop="20240111044500 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Kata Tetamu@AKM</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111044500 +0000" stop="20240111050000 +0000" channel="27.mana2_my">
+		<title lang="en">Malaysia Sekilas Pandang</title>
+		<desc lang="en">Program Malaysia Sekilas Pandang membawakan rangkuman berita tempatan yang penting selain memberikan impak kepada kehidupan warga Malaysia serta persekitaran mereka. Peristiwa seminggu dipakejkan untuk diimbas kembal</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111050000 +0000" stop="20240111053000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111053000 +0000" stop="20240111060000 +0000" channel="27.mana2_my">
+		<title lang="en">Darah Muda</title>
+		<desc lang="en">Majalah bual bicara Darah Muda musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111060000 +0000" stop="20240111063000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111063000 +0000" stop="20240111070000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111070000 +0000" stop="20240111073000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111073000 +0000" stop="20240111080000 +0000" channel="27.mana2_my">
+		<title lang="en">Darah Muda</title>
+		<desc lang="en">Majalah bual bicara Darah Muda musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111080000 +0000" stop="20240111083000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111083000 +0000" stop="20240111090000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111090000 +0000" stop="20240111093000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Malaysia Petang Ini</title>
+		<desc lang="en">Platform kupasan peristiwa penting dan kemaskini perkembangan semasa dalam negara, dirangkum setiap petang dalam Malaysia Petang Ini.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111093000 +0000" stop="20240111100000 +0000" channel="27.mana2_my">
+		<title lang="en">Radio@TV</title>
+		<desc lang="en">Program bual bicara topik-topik terkini lagi bermanfaat yang mengetengahkan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111100000 +0000" stop="20240111103000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111103000 +0000" stop="20240111110000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Mandarin News</title>
+		<desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chi</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111110000 +0000" stop="20240111113000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Tamil News</title>
+		<desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111113000 +0000" stop="20240111114500 +0000" channel="27.mana2_my">
+		<title lang="en">SUKAN+ CLOSE UP</title>
+		<desc lang="en">Program Kapsul berdurasi 15 minit, mengupas secara lebih dekat perihal sukan secara menyeluruh melibatkan industri, kejohanan, program, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111114500 +0000" stop="20240111120000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Sukan+</title>
+		<desc lang="en">Laporan sukan menyeluruh melibatkan keputusan kejohanan, prestasi, isu semasa dan kontroversi dari dalam dan luar negara.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111120000 +0000" stop="20240111123000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111123000 +0000" stop="20240111124500 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Kata Tetamu@AKM</title>
+		<desc lang="en">Program mingguan terbitan BERNAMA TV ini merangkumkan temubual
+bersama tetamu yang bersiaran bersama Apa Khabar Malaysia. Informasi yang dipaparkan saban minggu menarik lagi bermanfaat buat penonton di saluran BERNAMA TV.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111124500 +0000" stop="20240111130000 +0000" channel="27.mana2_my">
+		<title lang="en">Malaysia Sekilas Pandang</title>
+		<desc lang="en">Program Malaysia Sekilas Pandang membawakan rangkuman berita tempatan yang penting selain memberikan impak kepada kehidupan warga Malaysia serta persekitaran mereka. Peristiwa seminggu dipakejkan untuk diimbas kembal</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111130000 +0000" stop="20240111140000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111140000 +0000" stop="20240111143000 +0000" channel="27.mana2_my">
+		<title lang="en">Mandarin News</title>
+		<desc lang="en">A news bulletin specially tailored for the Chinese community, providing daily news coverage on various topics involving politics, economics, culture and education. Follow-up and in-depth reports on issues concerning the Chinese</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111143000 +0000" stop="20240111150000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111150000 +0000" stop="20240111153000 +0000" channel="27.mana2_my">
+		<title lang="en">(L) Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111153000 +0000" stop="20240111160000 +0000" channel="27.mana2_my">
+		<title lang="en">Tamil News</title>
+		<desc lang="en">Laporan terkini berita dari dalam dan luar negara</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111160000 +0000" stop="20240111170000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111170000 +0000" stop="20240111173000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111173000 +0000" stop="20240111180000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111180000 +0000" stop="20240111190000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111190000 +0000" stop="20240111193000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111193000 +0000" stop="20240111200000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111200000 +0000" stop="20240111203000 +0000" channel="27.mana2_my">
+		<title lang="en">The Nation</title>
+		<desc lang="en">The Nation is a talkshow on the who's who and the everyday people. Everyone has a story, what's yours?</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111203000 +0000" stop="20240111210000 +0000" channel="27.mana2_my">
+		<title lang="en">Apa Citer Show</title>
+		<desc lang="en">Apa Citer Show merupakan sebuah program celoteh santai bersama tetamu menerusi video call yang mengentengahkan elemen inspirasi dan gaya hidup.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111210000 +0000" stop="20240111213000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111213000 +0000" stop="20240111220000 +0000" channel="27.mana2_my">
+		<title lang="en">BERNAMA News</title>
+		<desc lang="en">A news bulletin providing the best, accurate and timely news on current issues, community, crime, politics, sports, human interest, foreign, business and economics as well as sports and entertainment</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111220000 +0000" stop="20240111223000 +0000" channel="27.mana2_my">
+		<title lang="en">Darah Muda</title>
+		<desc lang="en">Majalah bual bicara Darah Muda musim baharu mengangkat hal ehwal generasi baru merangkumi pencapaian dan inspirasi, cabaran dan dilema, minat dan gaya hidup serta isu-isu semasa dari perspektif belia.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111223000 +0000" stop="20240111233000 +0000" channel="27.mana2_my">
+		<title lang="en">Ruang Bicara</title>
+		<desc lang="en">Rancangan bual bicara bersama tetamu di studio mengupas topik semasa tanah air.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111233000 +0000" stop="20240112000000 +0000" channel="27.mana2_my">
+		<title lang="en">Buletin BERNAMA</title>
+		<desc lang="en">Berita semasa dalam dan luar negara  yang mengandungi berita am, politik, ekonomi, niaga dan sukan, selama setengah jam.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
 </tv>
