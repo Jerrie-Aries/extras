@@ -1,327 +1,425 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="epg_grabber">
-	<channel id="395.astro_com_my">
-		<display-name lang="en">TV1 HD</display-name>
-		<icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png"/>
+	<channel id="2.mana2_my">
+		<display-name lang="en">TV2</display-name>
+		<icon src="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/phkbzb.png"/>
 	</channel>
-	<programme start="20240109160000 +0000" stop="20240109163000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Tengah Malam</title>
-		<desc lang="en">Berita Tengah Malam yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+	<programme start="20240110000000 +0000" stop="20240110003000 +0000" channel="2.mana2_my">
+		<title lang="en">Fruiterama (S3)</title>
+		<desc lang="en">Siri animasi tentang buah-buahan tempatan yang memaarkan pengisian pengetahuan disamping aksi lucu mereka semua.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109163000 +0000" stop="20240109170000 +0000" channel="395.astro_com_my">
-		<title lang="en">Khazanah Borneo Ep04</title>
-		<desc lang="en">Saksikan paparan menarik tentang sejarah dan arkeologi di Tapak Arkeologi Tingkayu, Kunak bersama Munawar Azmi.</desc>
+	<programme start="20240110003000 +0000" stop="20240110010000 +0000" channel="2.mana2_my">
+		<title lang="en">Ejen 123 (SR2)</title>
+		<desc lang="en">Kisah 3 ejen yang membantu membanteras penyakit yang menyerang manusia. Mereka memberi pendedahan tentang penyakit-penyakit berkenaan dari segi pengertian, punca, cara rawatan dan cara mengelakkan serangan setiap penyakit.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109170000 +0000" stop="20240109173000 +0000" channel="395.astro_com_my">
-		<title lang="en">Kronologi Si Penjual Roti Ep08</title>
-		<desc lang="en">Budi sudah memutuskan hubungannya dengan Ani, namun ada bala yang bakal menimpa Budi.</desc>
+	<programme start="20240110010000 +0000" stop="20240110020000 +0000" channel="2.mana2_my">
+		<title lang="en">Imamku Okey</title>
+		<desc lang="en">Akibat berkahwin atas desakan keluarga , hubungan Adam dan Aishah saling membenci meskipun telah berkahwin. Sehinggalah dengan kehadiran seorang anak angkat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109173000 +0000" stop="20240109180000 +0000" channel="395.astro_com_my">
-		<title lang="en">Daripada Idea Kepada Inovasi Ep26</title>
-		<desc lang="en">Inovasi AIRBOX SENSE iaitu teknologi hijau yang dapat memantau kualiti udara menggunakan peralatan yang saintifik, kecil dan murah bersama Dr. Mohd Shahrul Mohd Nadzir (UKM).</desc>
+	<programme start="20240110020000 +0000" stop="20240110030000 +0000" channel="2.mana2_my">
+		<title lang="en">Jom Shoppe (Episod)</title>
+		<desc lang="en">Sebuah rancangan membeli-belah dalam talian khas untuk anda.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109180000 +0000" stop="20240109183000 +0000" channel="395.astro_com_my">
-		<title lang="en">Bajet Bijak Belanja Ep08</title>
-		<desc lang="en">Bersama pengacara Munarwar Azmi berkongsi topik mengenai Penjanaan Pendapatan Tambahan.</desc>
+	<programme start="20240110030000 +0000" stop="20240110040000 +0000" channel="2.mana2_my">
+		<title lang="en">True Beauty</title>
+		<desc lang="en">Drama bersiri korea lakonan Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young dan Park Yoo-Na.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109183000 +0000" stop="20240109190000 +0000" channel="395.astro_com_my">
-		<title lang="en">Di Sana Ada Misterinya Ep12</title>
-		<desc lang="en">Zamarul Hisham ke Kampung Medan, Batu Pahat bagi merungkai misteri emas lombong Jepun dimana mengikut cerita masyarakat setempat, orang Jepun menanam patung emas di sana</desc>
+	<programme start="20240110040000 +0000" stop="20240110042000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA MANDARIN</title>
+		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109190000 +0000" stop="20240109193000 +0000" channel="395.astro_com_my">
-		<title lang="en">Sinei Kitak Tok</title>
-		<desc lang="en">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di Sarawak.</desc>
+	<programme start="20240110042000 +0000" stop="20240110043000 +0000" channel="2.mana2_my">
+		<title lang="en">Galeri Mandarin 2024</title>
+		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109193000 +0000" stop="20240109200000 +0000" channel="395.astro_com_my">
-		<title lang="en">Digital Massa Ep06</title>
-		<desc lang="en">Pemasaran Perniagaan melalui E-Dagang bersama Nurul Afini Anwar Pakar Pemasaran E-dagang</desc>
+	<programme start="20240110043000 +0000" stop="20240110050000 +0000" channel="2.mana2_my">
+		<title lang="en">WORLD TODAY</title>
+		<desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109200000 +0000" stop="20240109203000 +0000" channel="395.astro_com_my">
-		<title lang="en">Kerajaan Tua Nusantara Ep11</title>
-		<desc lang="en">Saksikan Dato' Haji Amin Khan berkongsi tentang sejarah 'Kerajaan Samudera Pasai' (Bahagian 1) di Indonesia.</desc>
+	<programme start="20240110050000 +0000" stop="20240110060000 +0000" channel="2.mana2_my">
+		<title lang="en">All Around Champion</title>
+		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109203000 +0000" stop="20240109213000 +0000" channel="395.astro_com_my">
-		<title lang="en">Cinta Adam Dan Hawa Ep01</title>
-		<desc lang="en">Amar diserang sawan ketika Tengku Rugayah dan Siti tiada dirumah.Tengku Abu Zahar memanggil anak-anaknya Tengku Ryan dan Tengku Zeera untuk menjelaskan kedudukan kewangan syarikat mereka.</desc>
+	<programme start="20240110060000 +0000" stop="20240110070000 +0000" channel="2.mana2_my">
+		<title lang="en">Waris (S2)</title>
+		<desc lang="en">Drama bersiri lakonan Zahiril Adzim, Nas T, Linda Hashim, Kavitha Sidhu, Liana Nordin dan Amelia Chen.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109213000 +0000" stop="20240109220000 +0000" channel="395.astro_com_my">
-		<title lang="en">Surah Ar Rahman</title>
-		<desc lang="en">Saksikan bacaan Surah Al-Rahman.</desc>
+	<programme start="20240110070000 +0000" stop="20240110090000 +0000" channel="2.mana2_my">
+		<title lang="en">Kalyanam</title>
+		<desc lang="en">Nehru adalah seorang remaja bisu yang telah menyaksikan pembunuhan seorang wanita sehingga dia dikejar oleh pembunuh tersebut untuk menghapuskan satu-satunya saksi kejadian.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109220000 +0000" stop="20240109230000 +0000" channel="395.astro_com_my">
-		<title lang="en">Bismillah 2023</title>
-		<desc lang="en">Tilawah and Tadabbur Surah Ali Imran (Ayat 103-110) yang mengetengahkan konsep perpaduan di kalangan masyarakat untuk membina KESEJAHTERAAN</desc>
+	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="2.mana2_my">
+		<title lang="en">Tua Separuh Muda</title>
+		<desc lang="en">Drama bersiri lakonan Shafie Tee, Firdaus Gufran, Thomson Goh, Jenicca Mae, Anita Baharom, Rosnah Johari, Aida Khalida dan Beego.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109230000 +0000" stop="20240109231000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Pagi</title>
-		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negara.</desc>
+	<programme start="20240110100000 +0000" stop="20240110103000 +0000" channel="2.mana2_my">
+		<title lang="en">Nella The Princess Knight</title>
+		<desc lang="en">Rancangan animasi yang mengisahkan tentang Puteri Nella yang juga seorang pahlawan, berani menempuh segala halangan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109231000 +0000" stop="20240109232000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Pagi Sabah</title>
-		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sabah.</desc>
+	<programme start="20240110103000 +0000" stop="20240110110000 +0000" channel="2.mana2_my">
+		<title lang="en">Nadim</title>
+		<desc lang="en">Kisah Nadim , kanak-kanak yang cintakan ilmu pengetahuan, berkongsi pengalamannya melawat tempat-tempat menarik dalam negara. Nadim juga menyelesaikan masalah yang dihadapinya dengan bijak.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109232000 +0000" stop="20240109233000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Pagi Sarawak</title>
-		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sarawak.</desc>
+	<programme start="20240110110000 +0000" stop="20240110113000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA MANDARIN</title>
+		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109233000 +0000" stop="20240109234400 +0000" channel="395.astro_com_my">
-		<title lang="en">Stadium RTM Pagi</title>
-		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam negeri Sarawak.</desc>
+	<programme start="20240110113000 +0000" stop="20240110120000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA TAMIL</title>
+		<desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240109234400 +0000" stop="20240110000000 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Kanta 744</title>
-		<desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+	<programme start="20240110120000 +0000" stop="20240110130000 +0000" channel="2.mana2_my">
+		<title lang="en">Witch At Court</title>
+		<desc lang="en">Drama bersiri Korea lakonan Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa dan Kim Kwon.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110000000 +0000" stop="20240110020000 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Selamat Pagi Malaysia</title>
-		<desc lang="en">Selamat Pagi Malaysia rancangan bual bicara pagi dengan pelbagai segmen dan topik menarik merangkumi gaya hidup, isu semasa, pendidikan, ekonomi.</desc>
+	<programme start="20240110130000 +0000" stop="20240110133000 +0000" channel="2.mana2_my">
+		<title lang="en">Apartmen Putra 59200 (Musim 5)</title>
+		<desc lang="en">Sitkom komedi terbitan Unit Drama TV, RTM lakonan Atu Zero, Along Cham, Syafie Naswip, Reen Rahim, Eric Fuzi, Syanie Hisham, Catriona Ross, Ieda Moin, Noorkhiriah dan penampilan istimewa Roy Azman.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110020000 +0000" stop="20240110020500 +0000" channel="395.astro_com_my">
-		<title lang="en">Dunia 10</title>
-		<desc lang="en">Berita dalam dan luar Negara</desc>
+	<programme start="20240110133000 +0000" stop="20240110150000 +0000" channel="2.mana2_my">
+		<title lang="en">Konsert Minggu Ini 2020</title>
+		<desc lang="en">Saksikan Konsert Minggu Ini terbitan Unit Hiburan TV, RTM.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110020500 +0000" stop="20240110023000 +0000" channel="395.astro_com_my">
-		<title lang="en">Jarang Jumpa Ep07</title>
-		<desc lang="en">Kisah Norhayati yang menghidap Steven Johnson Syndrome. Steven Johnson Syndrome (SJS) adalah penyakit yang melibatkan sistem imun dan kebiasaannya melibatkan kulit dan mukosa.</desc>
+	<programme start="20240110150000 +0000" stop="20240110160000 +0000" channel="2.mana2_my">
+		<title lang="en">The One That Got Away</title>
+		<desc lang="en">Mengisahkan Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak iaitu Alex, Darcy dan Zoe.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110023000 +0000" stop="20240110030000 +0000" channel="395.astro_com_my">
-		<title lang="en">Makan Dan Rawat Ep11</title>
-		<desc lang="en">Penyakit buah pinggang bersama pakar. Profesor Dr. Muhammad Shahrim Abdul Karim (Pensyarah Fakulti Sains dan Teknologi Makanan, UPM) berkongsi menu ayam panggang dan pasta labu olio aglio</desc>
+	<programme start="20240110160000 +0000" stop="20240110163000 +0000" channel="2.mana2_my">
+		<title lang="en">OBB (Orang Baik-Baik)</title>
+		<desc lang="en">Majalah yang diterbitkan dari idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan war</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110030000 +0000" stop="20240110033000 +0000" channel="395.astro_com_my">
-		<title lang="en">Warna-Warni Asia Ep10</title>
-		<desc lang="en">Nik Michael Imran ke Taichung, dan melihat keindahan tempat-tempat seperti Painted Animation Lane, Kampung Pelangi, Taiwan Museum of Suncake dan Zongshe Flower Market.</desc>
+	<programme start="20240110163000 +0000" stop="20240110173000 +0000" channel="2.mana2_my">
+		<title lang="en">Cermin Kasih Amira</title>
+		<desc lang="en">Drama Bersiri.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110033000 +0000" stop="20240110040000 +0000" channel="395.astro_com_my">
-		<title lang="en">Keringat Senja Ep12</title>
-		<desc lang="en">Episod kali ini bersama Munah Ibrahim, seorang pembuat terendak.</desc>
+	<programme start="20240110173000 +0000" stop="20240110180000 +0000" channel="2.mana2_my">
+		<title lang="en">Kafe Safiah</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan , persahabatan dan percintaan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110040000 +0000" stop="20240110040500 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Berita Semasa</title>
-		<desc lang="en">Berita Semasa dalam dan luar negara</desc>
+	<programme start="20240110180000 +0000" stop="20240110183000 +0000" channel="2.mana2_my">
+		<title lang="en">Moodupani</title>
+		<desc lang="en">Lakonan M.J Nada, Shielaa, K.S Maniam dan Indrani. Kisah pengorbanan dan kekuatan dalam menempuhi ranjau kehidupan yang penuh dengan konflik dan ujian hidup yang memerlukan kesabaran dan menyentuh emosi.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110040500 +0000" stop="20240110050000 +0000" channel="395.astro_com_my">
-		<title lang="en">Cities by the Sea Ep10</title>
-		<desc lang="en">Memaparkan keindahan budaya, iklim, demografi penduduk, makanan serta sektor ekonomi</desc>
+	<programme start="20240110183000 +0000" stop="20240110190000 +0000" channel="2.mana2_my">
+		<title lang="en">Uyiril Kalantha Uravu</title>
+		<desc lang="en">Drama kemasyarakatan antara hubungan  kekeluagaan, perhubungan percintaan dan konflik dalam memperjuangakn perjalanan hidup.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110050000 +0000" stop="20240110053000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Tengah Hari</title>
-		<desc lang="en">Perkembangan berita terkini, isu-isu semasa dalam dan luar negara.</desc>
+	<programme start="20240110190000 +0000" stop="20240110200000 +0000" channel="2.mana2_my">
+		<title lang="en">Impian Halaman Sekinchan</title>
+		<desc lang="en">Drama Mandarin.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110053000 +0000" stop="20240110060000 +0000" channel="395.astro_com_my">
-		<title lang="en">Exagon Ep25</title>
-		<desc lang="en">Rupa-rupanya, satu lagi Exagon yang hilang selama ini berada di makmal Murdoch Corp, digunakan oleh Dr. Murdoch untuk mengkaji teknologinya.</desc>
+	<programme start="20240110200000 +0000" stop="20240110220000 +0000" channel="2.mana2_my">
+		<title lang="en">Kalyanam</title>
+		<desc lang="en">Nehru adalah seorang remaja bisu yang telah menyaksikan pembunuhan seorang wanita sehingga dia dikejar oleh pembunuh tersebut untuk menghapuskan satu-satunya saksi kejadian.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110060000 +0000" stop="20240110063000 +0000" channel="395.astro_com_my">
-		<title lang="en">Jiranku Sayang Ep08</title>
-		<desc lang="en">Drama sitcom kehidupan penduduk di taman perumahan yang terdiri dari pelbagai kaum.</desc>
+	<programme start="20240110220000 +0000" stop="20240110230000 +0000" channel="2.mana2_my">
+		<title lang="en">Lembayung Kasihmu</title>
+		<desc lang="en">Mengisahkan tentang pengorbanan, kekeluargaan, kasih sayang dan cabaran dalam kehidupan untuk menampung hidup seharian.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110063000 +0000" stop="20240110070000 +0000" channel="395.astro_com_my">
-		<title lang="en">Teratak Tradisi Ep03</title>
-		<desc lang="en">Pengacara Intan Norsaina membawa para penonton ke Rumah Bujang Berselasar (Serambi), Terengganu.</desc>
+	<programme start="20240110230000 +0000" stop="20240110233000 +0000" channel="2.mana2_my">
+		<title lang="en">Soccer Bugs</title>
+		<desc lang="en">Animasi mengisahkan sekumpulan serangga.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110070000 +0000" stop="20240110070500 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Berita Semasa</title>
-		<desc lang="en">Berita Semasa dalam dan luar negara</desc>
+	<programme start="20240110233000 +0000" stop="20240111000000 +0000" channel="2.mana2_my">
+		<title lang="en">Arnab Dan Kura-Kura (S2)</title>
+		<desc lang="en">Animasik menarik yang sarat dengan pengajaran dan pendidikan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110070500 +0000" stop="20240110080000 +0000" channel="395.astro_com_my">
-		<title lang="en">Cuit Sikit, Jangan Sentap 2024 Ep01</title>
-		<desc lang="en">Rancangan ini mengetengahkan isu golongan muda yang menyentuh nilai-nilai murni dan kerohanian bersama pengacara Hafiz Dolson, Irfan Syahmi dan Syairul Islam.</desc>
+	<programme start="20240111000000 +0000" stop="20240111003000 +0000" channel="2.mana2_my">
+		<title lang="en">Adi Genius</title>
+		<desc lang="en">Ikuti kisah sAdi yang bijak dan genius menempuhi kehidupannya di kampung.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110080000 +0000" stop="20240110080500 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Berita Semasa</title>
-		<desc lang="en">Berita Semasa dalam dan luar negara</desc>
+	<programme start="20240111003000 +0000" stop="20240111010000 +0000" channel="2.mana2_my">
+		<title lang="en">Ejen 123 (SR2)</title>
+		<desc lang="en">Kisah 3 ejen yang membantu membanteras penyakit yang menyerang manusia. Mereka memberi pendedahan tentang penyakit-penyakit berkenaan dari segi pengertian, punca, cara rawatan dan cara mengelakkan serangan setiap penyakit.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110080500 +0000" stop="20240110083000 +0000" channel="395.astro_com_my">
-		<title lang="en">Sinei Kitak Tok</title>
-		<desc lang="en">Sebuah rancangan menyaksikan kepelbagaian tempat menarik di Sarawak.</desc>
+	<programme start="20240111010000 +0000" stop="20240111020000 +0000" channel="2.mana2_my">
+		<title lang="en">Imamku Okey</title>
+		<desc lang="en">Akibat berkahwin atas desakan keluarga , hubungan Adam dan Aishah saling membenci meskipun telah berkahwin. Sehinggalah dengan kehadiran seorang anak angkat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110083000 +0000" stop="20240110084500 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Pastikan Sahih</title>
-		<desc lang="en">Sebuah rancangan bual bicara santai untuk berkongsi maklumat yang benar dan sahih serta mencari kebenaran tentang berita-berita yang tular di media sosial.</desc>
+	<programme start="20240111020000 +0000" stop="20240111030000 +0000" channel="2.mana2_my">
+		<title lang="en">Jom Shoppe (Episod)</title>
+		<desc lang="en">Sebuah rancangan membeli-belah dalam talian khas untuk anda.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110084500 +0000" stop="20240110090000 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Biz Malaysia</title>
-		<desc lang="en">Biz Malaysia bersama pakar-pakar ekonomi dan isu-isu semasa ekonomi dalam dan luar negara.</desc>
+	<programme start="20240111030000 +0000" stop="20240111040000 +0000" channel="2.mana2_my">
+		<title lang="en">True Beauty</title>
+		<desc lang="en">Drama bersiri korea lakonan Cha Eun-Woo, Hwang In-Yeop, Moon Ga-Young dan Park Yoo-Na.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110090000 +0000" stop="20240110100000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Wilayah</title>
-		<desc lang="en">Saksikan Berita Wilayah yang memaparkan berita-berita terkini dan isu-isu semasa.</desc>
+	<programme start="20240111040000 +0000" stop="20240111042000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA MANDARIN</title>
+		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110100000 +0000" stop="20240110104500 +0000" channel="395.astro_com_my">
-		<title lang="en">Fikrah 2023</title>
-		<desc lang="en">Bukan tugas kita untuk menghisab dosa orang lain, tetapi apa yang harus kita lakukan adalah untuk melihat diri kita sendiri dengan penuh keinsafan. Ikuti kupasan Pendakwah Bukan Penghukum.</desc>
+	<programme start="20240111042000 +0000" stop="20240111043000 +0000" channel="2.mana2_my">
+		<title lang="en">Galeri Mandarin 2024</title>
+		<desc lang="en">Rancangan berbentuk majalah berbahasa Mandarin yang memaparkan aktiviti dan kegiatan semasa masyarakat.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110104500 +0000" stop="20240110114400 +0000" channel="395.astro_com_my">
-		<title lang="en">Cinta Adam Dan Hawa Ep14</title>
-		<desc lang="en">Kemunculan Summayah mengingatkan sesuatu kepada Adam tentang kesilapannya terhadap Summayah selama ini.</desc>
+	<programme start="20240111043000 +0000" stop="20240111050000 +0000" channel="2.mana2_my">
+		<title lang="en">WORLD TODAY</title>
+		<desc lang="en">World Today, brings you the latest news of national interest and trending international issues.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110114400 +0000" stop="20240110120000 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Kanta 744</title>
-		<desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
+	<programme start="20240111050000 +0000" stop="20240111060000 +0000" channel="2.mana2_my">
+		<title lang="en">All Around Champion</title>
+		<desc lang="en">Sepuluh atlet elit Amerika Utara akan bersaing bagi merebut gelaran juara.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110120000 +0000" stop="20240110123000 +0000" channel="395.astro_com_my">
-		<title lang="en">Berita Perdana</title>
-		<desc lang="en">Berita Perdana yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
+	<programme start="20240111060000 +0000" stop="20240111070000 +0000" channel="2.mana2_my">
+		<title lang="en">Waris (S2)</title>
+		<desc lang="en">Drama bersiri lakonan Zahiril Adzim, Nas T, Linda Hashim, Kavitha Sidhu, Liana Nordin dan Amelia Chen.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110123000 +0000" stop="20240110130000 +0000" channel="395.astro_com_my">
-		<title lang="en">Malaysia Tonight</title>
-		<desc lang="en">Berita Bahasa Inggeris yang berkonsepkan berita dunia korporat, bisnes dan isu-isu semasa</desc>
+	<programme start="20240111070000 +0000" stop="20240111090000 +0000" channel="2.mana2_my">
+		<title lang="en">Tears Of Phython</title>
+		<desc lang="en">Kisah dongeng tentang jelmaan ular yang menghantui hidup seorang pemuda.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110130000 +0000" stop="20240110140000 +0000" channel="395.astro_com_my">
-		<title lang="en">(L) Diari Rawat</title>
-		<desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini.</desc>
+	<programme start="20240111090000 +0000" stop="20240111100000 +0000" channel="2.mana2_my">
+		<title lang="en">Tua Separuh Muda</title>
+		<desc lang="en">Drama bersiri lakonan Shafie Tee, Firdaus Gufran, Thomson Goh, Jenicca Mae, Anita Baharom, Rosnah Johari, Aida Khalida dan Beego.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110140000 +0000" stop="20240110143000 +0000" channel="395.astro_com_my">
-		<title lang="en">Dunia 10</title>
-		<desc lang="en">Berita dalam dan luar Negara</desc>
+	<programme start="20240111100000 +0000" stop="20240111103000 +0000" channel="2.mana2_my">
+		<title lang="en">Nella The Princess Knight</title>
+		<desc lang="en">Rancangan animasi yang mengisahkan tentang Puteri Nella yang juga seorang pahlawan, berani menempuh segala halangan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110143000 +0000" stop="20240110150000 +0000" channel="395.astro_com_my">
-		<title lang="en">Rona Sabah Ep02</title>
-		<desc lang="en">Penyelidikan dan inovasi Serunding Kubis secara berterusan yang dilakukan oleh Universiti Malaysia Sabah diketuai Profesor Madya Dr. Jurry Foo</desc>
+	<programme start="20240111103000 +0000" stop="20240111110000 +0000" channel="2.mana2_my">
+		<title lang="en">Bila Bayan Bercerita</title>
+		<desc lang="en">Kisah keluarga Cikgu Azli yang membimbing anak-anak Bidin, Tania dan Rozi semasa berhadapan dengan pelbagai masalah harian.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110150000 +0000" stop="20240110153000 +0000" channel="395.astro_com_my">
-		<title lang="en">Jiranku Sayang Ep04</title>
-		<desc lang="en">Marwan tiada semangat untuk memasak. Mak Wan telah membuat tempahan dengan Marwan dan makanannya sangat sedap.</desc>
+	<programme start="20240111110000 +0000" stop="20240111113000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA MANDARIN</title>
+		<desc lang="en">Memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
 	</programme>
-	<programme start="20240110153000 +0000" stop="20240110160000 +0000" channel="395.astro_com_my">
-		<title lang="en">Warisan Kita Ep05</title>
-		<desc lang="en">Seni budaya Jikey bersama Dr. Rosdeen Suboh (Pengkaji Jikey, UM), Rizal bin Ismail (Pengarah JKKN Kedah), Hamid bin Itam (Penggiat Jikey) dan Ed Kota (Ketua Kumpulan Jikey Seri Langkapuri)</desc>
+	<programme start="20240111113000 +0000" stop="20240111120000 +0000" channel="2.mana2_my">
+		<title lang="en">BERITA TAMIL</title>
+		<desc lang="en">Berita berbahasa Tamil yang memaparkan perkembangan politik, sosial, ekonomi, sukan, hiburan dan isu-isu semasa.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111120000 +0000" stop="20240111130000 +0000" channel="2.mana2_my">
+		<title lang="en">Witch At Court</title>
+		<desc lang="en">Drama bersiri Korea lakonan Jung Ryeo Won, Yoon Hyun Min, Jun Kwang Ryul, Kim Yeo Jin, Heo Sung Tae, Kim Min Seo, Lee Il Hwa dan Kim Kwon.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111130000 +0000" stop="20240111133000 +0000" channel="2.mana2_my">
+		<title lang="en">Mai Cek Mai</title>
+		<desc lang="en">Drama bersiri lakonan Imuda, Mamak Puteh dan Khatijah Tan, Ebby Yus dan Ilya Buang.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111133000 +0000" stop="20240111150000 +0000" channel="2.mana2_my">
+		<title lang="en">Konsert Minggu Ini 2020</title>
+		<desc lang="en">Saksikan Konsert Minggu Ini terbitan Unit Hiburan TV, RTM.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111150000 +0000" stop="20240111160000 +0000" channel="2.mana2_my">
+		<title lang="en">The One That Got Away</title>
+		<desc lang="en">Mengisahkan Liam yang bertemu dengan tiga orang bekas kekasihnya secara serentak iaitu Alex, Darcy dan Zoe.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111160000 +0000" stop="20240111163000 +0000" channel="2.mana2_my">
+		<title lang="en">OBB (Orang Baik-Baik)</title>
+		<desc lang="en">Majalah yang diterbitkan dari idea dan konsep lagu serta muzik video nyanyian Art Fazil dan Imuda yang bertajuk Orang Baik Baik. Dimana setiap episod, akan memaparkan kehidupan dan aktiviti seseorang atau sekumpulan war</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111163000 +0000" stop="20240111173000 +0000" channel="2.mana2_my">
+		<title lang="en">Cermin Kasih Amira</title>
+		<desc lang="en">Drama Bersiri.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111173000 +0000" stop="20240111180000 +0000" channel="2.mana2_my">
+		<title lang="en">Kafe Safiah</title>
+		<desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan , persahabatan dan percintaan.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111180000 +0000" stop="20240111183000 +0000" channel="2.mana2_my">
+		<title lang="en">Moodupani</title>
+		<desc lang="en">Lakonan M.J Nada, Shielaa, K.S Maniam dan Indrani. Kisah pengorbanan dan kekuatan dalam menempuhi ranjau kehidupan yang penuh dengan konflik dan ujian hidup yang memerlukan kesabaran dan menyentuh emosi.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111183000 +0000" stop="20240111190000 +0000" channel="2.mana2_my">
+		<title lang="en">Uyiril Kalantha Uravu</title>
+		<desc lang="en">Drama kemasyarakatan antara hubungan  kekeluagaan, perhubungan percintaan dan konflik dalam memperjuangakn perjalanan hidup.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111190000 +0000" stop="20240111200000 +0000" channel="2.mana2_my">
+		<title lang="en">Impian Halaman Sekinchan</title>
+		<desc lang="en">Drama Mandarin.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111200000 +0000" stop="20240111220000 +0000" channel="2.mana2_my">
+		<title lang="en">Tears Of Phython</title>
+		<desc lang="en">Kisah dongeng tentang jelmaan ular yang menghantui hidup seorang pemuda.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111220000 +0000" stop="20240111230000 +0000" channel="2.mana2_my">
+		<title lang="en">Lembayung Kasihmu</title>
+		<desc lang="en">Mengisahkan tentang pengorbanan, kekeluargaan, kasih sayang dan cabaran dalam kehidupan untuk menampung hidup seharian.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111230000 +0000" stop="20240111233000 +0000" channel="2.mana2_my">
+		<title lang="en">Soccer Bugs</title>
+		<desc lang="en">Animasi mengisahkan sekumpulan serangga.</desc>
+		<episode/>
+		<category/>
+		<rating/>
+	</programme>
+	<programme start="20240111233000 +0000" stop="20240112000000 +0000" channel="2.mana2_my">
+		<title lang="en">Arnab Dan Kura-Kura (S2)</title>
+		<desc lang="en">Animasik menarik yang sarat dengan pengajaran dan pendidikan.</desc>
 		<episode/>
 		<category/>
 		<rating/>
